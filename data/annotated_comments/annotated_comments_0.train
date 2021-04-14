@@ -1,0 +1,2105 @@
+__label__negative messages for well known flows should notify even though they dont have a status
+__label__positive record the argument description
+__label__positive validate shapes of array inputs
+__label__negative xxx for now , we only test some virtual inheritance properties we should also test the proper behavior of the collection abcs as real base classes or mix-in classes
+__label__negative shape of the data column are the indexable axes
+__label__positive call to network api to get instance info this will force an update to the instances info_cache
+__label__negative indexes of entries in the central directory structure
+__label__positive create sender side diskfiles
+__label__positive make sure the property conforms to the schema
+__label__negative decimal number
+__label__positive if needs_continuation is true then we have actually only partially processed this command we push this command on to the end of the command_queue for this folder it will get picked off and processed later through the event loop the command itself keeps track of where it is in terms of processing
+__label__negative the control attribute is not picklable since it is a vtk object so we remove it
+__label__positive start up the docker vm
+__label__negative show a cluster_host successfully
+__label__negative escape condition
+__label__negative note : psycopg2 is unable to differentiate between exceptions thrown by stored procedures and certain other database internal exceptions , thus we do not know if the exception in question is raised from our stored procedure or from some other error in addition , postgresql is unable to pass any error code for the exception and so the only thing which we can look at is the actual text string exceptions raised by our stored procedures will all start with an error code followed by a colon , which separates the error code from the text string that follows next if the error text does not follow this format it is likely not one of our exceptions and so we throw and log a more general exception
+__label__negative and the not-lexsorted version
+__label__negative soap-enc : array expecting arraytype attribute reference
+__label__positive upon reaching an equality , check for prior redundancies
+__label__positive move all metadata to the clients current and previous directories the root metadata file must exist in { client_metadata_directory } /current tufinterposition and tufclientupdaterpy expect the current and previous directories to exist under metadata
+__label__positive adjust energy threshold until a phrase starts
+__label__negative and the same for fshape
+__label__positive make plain wrapper , compare against itself
+__label__negative path from category root
+__label__negative list the mro , if non-trivial
+__label__positive install greet
+__label__negative we want to make an http/11 request , but the addinfourl class isnt prepared to deal with a persistent connection it will try to read all remaining data from the socket , which will block while the server waits for the next request so make sure the connection gets closed after the only request
+__label__positive merge it into the new config
+__label__negative end of parsing commandline options
+__label__negative change of net
+__label__negative 5 row , 3 columns , default names on both , single index on both axis
+__label__negative editor -- -- -- -- -- -- -- -- -- -
+__label__positive check that there are tempo , key and time change events only on track 0
+__label__negative return void from method stack : → empty
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- writetab - write lexer information to a table file -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+__label__positive relative path from build output dir to base dir
+__label__negative broadcast transmits compatibility : 500
+__label__positive check whenther ptg is the end of a chain
+__label__positive if using cudnn version before v3 , only run the tests where the kernels are not larger than the input in any spatial dimension
+__label__positive create schema and set as search path
+__label__negative the index of the first byte of the first segment
+__label__negative note : increment this everytime the pickled object changes
+__label__negative baseline results
+__label__negative gather a list of ints from the py_unicode array ; these are either ucs-2 or ucs-4 code points :
+__label__negative icon for expand all/collapse all buttons in the module palette
+__label__positive delete the reference from the source revision to the first revision on the branch :
+__label__negative array of data cache sizes l1l4 each size is expressed in bytes a size of 0 for a particular level indicates that there is no cache information for that level the type of this attribute is uint32_t4
+__label__negative each classfile , field_info , and method_info structure may contain at most one runtimevisibleannotations attribute , which records all the run-time-visible java programming language annotations on the corresponding program element the java virtual machine must make these annotations available so they can be returned by the appropriate reflective apis
+__label__negative gyp type static_library , etc of this target
+__label__positive throw out inputs where n : ,k == 0
+__label__negative having this switch on implies not asking for anything else
+__label__positive return the notebook as the result :
+__label__positive now add all of the simple rules
+__label__negative tell the ase there is a new client
+__label__negative this has to be overridden to handle the plumbing of creating a configurationfile which is a collection instead of some entity
+__label__negative last one , this * must * resolve to something that supports prefetching , otherwise there is no point adding it and the developer asking for it has made a mistake
+__label__negative read i2c byte
+__label__positive then reset the list , since we dont need it anymore :
+__label__negative file deactivatebat
+__label__negative overridden public construction environment methods
+__label__positive the number of bytes to read is specified , return at most n bytes
+__label__negative if you set this to false , django will make some optimizations so as not to load the internationalization machinery
+__label__positive verify actual output against expected output
+__label__negative run the full test suite
+__label__negative in out
+__label__negative distribution precedence constants
+__label__positive test if last column is the start of a multiline field
+__label__positive set name if it was passed , otherwise , keep the previous name
+__label__negative use seed for deterministic testing
+__label__positive create destination directories , if necessary
+__label__positive _id is not sent to server , so its generated server-side
+__label__positive parse the contents of a file , not expecting a magic header
+__label__negative this part walks for all tensorheads appearing in the tensor expr and looks for simplify_this_type , to specifically act on a subexpr containing one type of tensorhead instance only :
+__label__positive read attributes
+__label__positive simultate processing messages arriving in random order
+__label__negative flushes the parser buffers , and returns the toplevel documen element @ return an element instance @ defreturn element
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- parsing
+__label__positive add the modules description
+__label__negative pytables_format_version attribute is not present
+__label__negative db host / user / password
+__label__positive if no rules apply , the word doesnt need any more stemming
+__label__negative wrt_elem and eval_point dont always have ndim like random type tensor , sparse and cudandarray have the ndim attribute
+__label__positive put it in our temporary buffer
+__label__negative it must have its own encoder
+__label__negative see decorator for function body
+__label__positive the next loop renames all watches with src_path as base path it seems that in_move_self does not provide in_isdir information therefore the next loop is iterated even if raw_event is a file
+__label__positive add the contents
+__label__negative strip off /files
+__label__positive make sure the peer router is ok , may need to connect
+__label__positive take a subset of vector slices
+__label__positive store maximum value of l needed by window functions
+__label__positive add some data
+__label__negative memory issues with rings and polygons
+__label__negative -- -- -- -- -- -- -- -- -- vg enhanced status bits -- -- -- -- -- -- -- -- -- - this bit will be set if the mode is ethernet , else it will be in token ring mode
+__label__positive start all worker threads
+__label__negative there are no html tags , so lets try the old method
+__label__negative update lag polynomials
+__label__negative because we are setting a state variable in the connection , do not make the change unless it is actually going to be performed
+__label__negative rfc2616 section 43
+__label__negative font showing on the parameter inspector window of visual diff
+__label__negative -- containers for services file components
+__label__positive get total_cpus from each allocator
+__label__positive clean the standard output string
+__label__negative print voldiff banner ================================================================
+__label__negative xxx neds coverage
+__label__positive make a view on the output , as we will write into it
+__label__negative okay no error so far , lets delete that baby change the send and recv status to cancelled
+__label__negative this is the beginning of a continuation line
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - imports : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative this function does 2 and 3
+__label__negative python 3 type errors should be raised
+__label__negative mnexec : close descriptors , detach from tty , print pid , and run in namespace
+__label__negative operand0 : source 1 literal or register operand1 : source 2 literal or register operand2 : destination resgister
+__label__negative only the price field is specified , this should skip any unique checks since the unique_together is not fulfilled this will fail with a keyerror if broken
+__label__positive raise an exception if the conflict handler is invalid
+__label__positive attach original swap disk
+__label__positive finalize job and invoke callback
+__label__negative original user syncs again make sure updates take
+__label__negative redhat logo
+__label__positive get list of versions
+__label__negative for older http , keep-alive indicates persistent connection
+__label__negative ideally this would be one query since were not modifying , but in the generic case the save method may have other side effects and we dont know if the object was modified , so we currently always reload
+__label__negative uptime compatibility : 350 / 400 / 410 / 500
+__label__positive snapshot and transfer all ephemeral disks then power down and transfer any diffs since the snapshots were taken
+__label__negative district fill layer
+__label__negative msys needs paths of the form /c/path/to/file
+__label__negative plugins
+__label__positive either a local field filter , or no fields at all
+__label__positive we found it , so add it to our list of procssed installs so we dont process it again in the future
+__label__positive change default font at runtime with :
+__label__positive verify reservation has been cleared
+__label__negative flow collections and quoted scalars
+__label__negative lxmletree compatibility use output method instead
+__label__negative it works !
+__label__negative in 25 runtime , the above code will be scrubbed to import the stub version of cloudstorage all occurences of the following if condition in mr codebase is to tell it apart todouser : remove after 25 runtime mr is abondoned
+__label__negative block start
+__label__negative set user-specified project-wide build settings and config files this is intended to be used very sparingly really , almost everything should go into target-specific build settings sections the project-wide settings are only intended to be used in cases where xcode attempts to resolve variable references in a project context as opposed to a target context , such as when resolving sourcetree references while building up the tree tree view for ui display any values set globally are applied to all configurations , then any per-configuration values are applied
+__label__negative some extra modules are needed for python 3 , but different ones for different versions
+__label__positive create the interface
+__label__negative include < wcharh >
+__label__negative close it
+__label__positive remember the current cursor positions
+__label__negative should the root of the tree be shown ?
+__label__negative base case for max_num
+__label__negative if we do not have the file handle open probably because we are on a win32 system and we do not trust inodes , then there is no way to get back to the original contents , so we just mark this file portion as now invalid
+__label__negative the innerclasses attribute has the following format :
+__label__positive formulates the contacts list into a dict for json output
+__label__negative eventadd : * * obsolete * * add an event
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - texture3d formats -- -
+__label__negative check that decision_function_shape=ovr gives correct shape and is consistent with predict
+__label__negative constant and non-constant are now applied in the same phase i am not sure why , but it seems to be faster this way
+__label__negative lots of regular expressions
+__label__negative it is possible for objects to have no __class__
+__label__positive close the window and check that cron job object was created
+__label__positive finish one request by instantiating requesthandlerclass
+__label__negative include < pythonh > // or using your favorite language include < swigrunswg > include < python/pyrunswg > // or using your favorite language include < runtimeswg >
+__label__negative adding new mt interceptors
+__label__negative edge weighted graph - degree is sum of edge weights
+__label__positive create widgets
+__label__negative a do statement
+__label__positive assign the color
+__label__positive newlines are already translated , only search for \n
+__label__negative tables often have whitespace that is used to improve wiki source code readability todo : handle nested tables
+__label__negative this does not need special handling
+__label__positive initialize our toknum/filepos mapping
+__label__negative greek letters
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - vgrid class : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative classtypesignature : l packagespecifieropt simpleclasstypesignature classtypesignaturesuffix * ;
+__label__negative different co-ordinates for horizontal = 0 and vertical = 1
+__label__negative just go with whatever the upstream currently is
+__label__negative end initialization
+__label__positive check if this is a repr
+__label__negative docstring fields
+__label__negative stdin is set to open file descriptor
+__label__positive set all leds
+__label__negative without this , only ie6-quirks doesnt quite align right :
+__label__positive init xsl stylesheet
+__label__negative this is a component , so needs to be a super_link - cant override field name , ondelete or requires
+__label__positive add prefix to vrf by specifying vrf name
+__label__negative handle generic p tag here
+__label__negative option constants
+__label__negative test multiple calls of fit w/ different shaped inputs
+__label__negative test handling of long * seq and seq * long
+__label__negative all done
+__label__negative escape attribute value
+__label__negative third selection
+__label__positive concatenate arrays
+__label__positive init chain of leds
+__label__positive check the instance hasnt been migrated
+__label__negative possibly still relevant old method
+__label__positive string together the dotted names and return the string
+__label__negative ============================== functional node base classes ==============================
+__label__negative popup url
+__label__positive limit the value string to at most 20 characters
+__label__negative the cnonce-value is an opaque quoted string value provided by the client and used by both client and server to avoid chosen plaintext attacks , to provide mutual authentication , and to provide some message integrity protection this isnt a fabulous effort , but its probably good enough
+__label__negative del to avoid windows errors of form the process can not access the file because it is being used
+__label__negative build the tool cache our starting working directory since were going to move around
+__label__negative regular index value
+__label__positive this is where the type infos are constructed
+__label__negative maximum number of times to retry requests on 5xx errors
+__label__negative body section frames
+__label__positive joint orient euler xyz offset of the constrained transform
+__label__positive create our depgraph
+__label__negative we have a new search string , but did not make any text changes so we have to update the search highlighting here usually text changes trigger this
+__label__negative xxx testcase
+__label__negative dont trigger close on shutdown notification , which will prevent us from receiving the reply
+__label__positive repeat the last note to extend its duration
+__label__positive init the connection
+__label__negative we can now compile a dummy function just to see what shared variable we have and what are their update rules note that the user has the option not to pass the shared variable to scan , so we need to pick them manually and add them to scan make the compilation as fast as possible by not applying any optimization or conversion to c note this region is not important for performance so we can do stuff as unoptimal as we wish
+__label__negative look for a 12 revision :
+__label__positive release the lock we placed on this rule
+__label__negative p3 should have inherited_tags = a from p1
+__label__negative p is the spot where we found or inserted loc ; now remove duplicates
+__label__positive if found , return the component
+__label__positive lets make the search path a tuple and add it to the overrides
+__label__negative reduce the default limit of 1000 temporarily for testing
+__label__negative construct parameters
+__label__negative nojs : upload images , if any
+__label__negative see decorator for function body
+__label__positive make sure snmpv1 is parsed with a community string
+__label__negative unset pr1 and pr2 in
+__label__negative try a python arrayarray
+__label__negative declares the storage
+__label__negative 31446 put_publisherid opnum 12
+__label__negative instance field n_description = false
+__label__negative startup state
+__label__negative if we didnt consume all the argument strings , there were extras
+__label__negative threads program : testrun
+__label__negative uses __bases__ instead of __mro__ so that we work with old style classes
+__label__positive now that we actually have the next argument , perform the task
+__label__negative now use just adjacencies
+__label__positive cleanup temporary branches created during import
+__label__negative the name of the block were in , otherwise none
+__label__negative define functions mapping the test vector to ports in model
+__label__negative 6 delete the extra transform delete dupetransform2
+__label__negative may still have some number of trues
+__label__positive find the attribute _parser , which holds the parser class for this parsed type
+__label__positive fetch the name resources current release
+__label__negative auto populate modified_by if it is present
+__label__negative 2nd v6 vip
+__label__positive get a generated list of complaint descriptions from the json test client
+__label__positive run the test cases
+__label__negative modified and removed files
+__label__positive disable xdebug
+__label__negative trough eject
+__label__negative dealing with another network
+__label__negative must check here for function opener on same line as annotation
+__label__negative no dups
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - unregister all event handlers : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative consumer was cancelled by broker
+__label__negative temp handling
+__label__negative clients sendrequest will send nothing starting from this moment
+__label__negative in prior versions of pyfits hierarch cards would only be created if the user-supplied keyword explicitly started with hierarch now we will create them automatically for long keywords , but we still want to support the old behavior too ; the old behavior makes it possible to create heirarch cards that would otherwise be recognized as rvkcs
+__label__negative the same sets
+__label__negative should i remove the environment settings ?
+__label__positive clean up directories and files
+__label__negative aggregates can be composed over annotations the return type is derived from the composed aggregate
+__label__negative there are still handlers active on the subscription !
+__label__negative deference object references no longer needed
+__label__negative abc from ab import c
+__label__positive calculate time since last update
+__label__negative drsuapi method , checking whether target is a dc
+__label__negative the issuer checks the secret attributes and encrypts a amac it also includes some public attributes , namely 30 , 40
+__label__negative a c or c++ union
+__label__negative instance security groups
+__label__negative if context_use_ps1 is true , parsing searches back for a ps1 line ; else searches for a popular if , def , python stmt
+__label__positive dont do anything if an empty set is provided
+__label__positive return the set of parent credential ref ids
+__label__negative function declarations of the various functions used for encoding and sending data from rpi to arduino
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- push_state - changes the lexing state and saves old on stack -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+__label__positive make sure the publisher is running by checking the unix socket
+__label__negative -- -- - custom distutils/setuptools commands -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- >
+__label__negative staticfiles
+__label__positive generate the tracer
+__label__positive unbind & disconnect
+__label__positive add specific models with given names and restrict the supported methods
+__label__negative subparser for polinfo
+__label__negative if true , uniqueness validation checks will consider this a new , as-yet-unsaved object necessary for correct validation of new instances of objects with explicit non-auto pks this impacts validation only ; it has no effect on the actual save
+__label__positive ensure the user is authorized to perform this action
+__label__negative import salt testing libs
+__label__positive return the pattern
+__label__negative q define paste_anglename < # # name # # -yes >
+__label__positive delete annotation data
+__label__negative setup remote container
+__label__positive merge buckets until everything is a root entry
+__label__negative a spooledtemporaryfile can be truncated to zero size
+__label__negative local checkout doesnt have the remote_rev
+__label__negative tz is time zone specifier string
+__label__negative indexing w/ time
+__label__negative verify that neither primary or shadow documents exist
+__label__positive decline any unused offers expect offer2 remains , since both tasks were schedule on offer1
+__label__positive every target item now has a source diff against it
+__label__negative click on reset password link on login page , and follow flow of popup expect a certain string to test for different flows , by default expects a succesful form flow this should generate an emailed link
+__label__negative base rev and branch are the ones from which any reset or merge will take place if the branch is not being specified , the base will be the local rev and branch , ie those we began with before this state was run if a branch is being specified and it both exists and is not the one with which we started , then well be checking that branch out first , and it instead becomes our base the base branch and rev will be used below in comparisons to determine what changes to make
+__label__negative pyston change : socket close : add refcounting similar to pypys approach
+__label__negative construct headers
+__label__negative show it by rewriting the 3d as 1d and testing it
+__label__negative not entirely sure what the rules are here
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - constants : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative cant do anything without link type selected
+__label__negative xxx the only usage of this method is in httpservercgihttprequesthandler maybe move the code there so that it doesnt need to be part of the public api the api has never been defined so this could cause backwards compatibility issues
+__label__negative 7 tester this is provided only for backwards compatibility its not actually used in any way
+__label__negative construct parameters
+__label__positive make list of dictionary as much as needed
+__label__negative valid account ?
+__label__negative compatible preceding sibling facts must have calc relationship to toal
+__label__negative pyopenssl sockets dont take an arg
+__label__negative : string in dotted notation that failed to be imported
+__label__negative gh12574 : allow dtype=category only , otherwise error
+__label__negative fperez - fix : sometimes , co_firstlineno can give a number larger than the length of lines , which causes an error safeguard against that
+__label__negative use database ?
+__label__negative _get_candidate_names always returns the same object
+__label__negative step 8 of 14 : populate principal alias lookup
+__label__negative : the player object that these stats apply to
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - if choices is a tuple , we make it a list so we can sort it if choices is already a list , we make a new list , so that when we sort the choices , we dont affect the list object that we were given -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative handle any kind of error eg null ptrs by simply using the base class
+__label__negative our socket was closed see https : //bitbucketorg/cherrypy/cherrypy/issue/686
+__label__positive make sure the length is correct
+__label__negative yearly : fractional period is in days we divide by the maximum number of days in a year to the advantage of a customer
+__label__negative 将广告的基本价格（base value）添加到一个记录了所有广告的基本价格的有序集合里面。
+__label__positive set default style for this sheet
+__label__negative is the parent node a group ? is it open ?
+__label__negative name string cname string kind string struct or union scope structorunionscope , or none if incomplete typedef_flag boolean packed boolean
+__label__negative the current indentation
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - signunit tests with varying bitwidths -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive make sure that chain and cycle catch exceptions immediately rather than when shifting between input sources
+__label__positive positionerdriverstatusstringget : return the positioner driver status string corresponding to the positioner error code
+__label__positive make sure masked arrays passed in stay as masked arrays
+__label__negative > 2 dims
+__label__negative request ball
+__label__positive delete the book object , which will cascade onto the pet
+__label__positive fetch the clients cert - we will be updating its clock attribute
+__label__negative if the field specifies choices , we dont need to look for special admin widgets - we just need to use a select widget of some kind
+__label__negative some databases cant take defaults as a parameter oracle if this is the case , the individual schema backend should implement prepare_default
+__label__negative we have the payload , lets get rid of the channel fastgced faster
+__label__negative try to use the owner of the p4 label , or failing that , the current p4 user id
+__label__negative share most attributes with the container
+__label__positive gather the targets to shard , and how many pieces
+__label__positive build the condition for this where part get the field name and value
+__label__positive removing unique constraint on config , fields app , version
+__label__negative generate field operations
+__label__negative get all of the basic information
+__label__positive get the row object associated with the new table
+__label__negative we need to mess with the implementation internals a bit here to decrease the cache fill size so that we dont read all the results at once
+__label__positive look for name_option keys and put them in decoder_optionsnameoption
+__label__negative struct pcap_rmtauth this structure keeps the information needed to autheticate the user on a remote machine
+__label__negative its important to run this * after * resetting the timeout to rig a race in some test code writing to the transport will synchronously call test code , which synchronously loses the connection , calling our connectionlost method , which cancels the timeout we want to make sure that timeout is cancelled * after * we reset it above , so that the final state is no timed calls this avoids reactor uncleanliness errors in the test suite xxx : perhaps loopback should be fixed to not call the user code synchronously in transportwrite ?
+__label__negative construct body
+__label__negative exclude from val
+__label__negative : gpib interface
+__label__positive add name label
+__label__negative name of the node
+__label__negative test the we automatically follow 300 redirects if a location : header is provided
+__label__negative the following should also be true , of course but it is not the focus of this test
+__label__negative test named tuple
+__label__positive loop over input bed file and calculate stats for merged intervals
+__label__negative xxx as_data ?
+__label__negative steps back to the same frame in a return call it will stop in the back frame for the user
+__label__positive loop across cross index
+__label__negative ensure it redirects
+__label__positive default environment variables
+__label__negative 5 : our special end keyword but only if it stands alone
+__label__negative use ctypes for libc access in getlibc from helpers
+__label__positive check that the parsed result does a round trip to default format
+__label__negative xxx why does selfhandlers need to be sorted ?
+__label__positive check that version data can be loaded
+__label__negative support wrappers from environment variables too
+__label__negative end defines
+__label__negative test key names
+__label__positive plot each line
+__label__positive cancel out gain change from frequency scaling
+__label__negative : the input buffers
+__label__positive 5 compose the depth-weighting matrix
+__label__positive check that the parsed result does a round trip
+__label__negative xxx at least under kdes wm these attrs are both 0
+__label__negative we cant reuse the same join again in the query if we have two distinct joins for the same connection in rhs query , then the combined query must have two joins , too
+__label__negative the cygwin case handles this inside the bash sub-shell
+__label__negative remove and assert
+__label__positive recalculate source sum now that file has been cached
+__label__positive parse all the remaining options into the namespace store any unrecognized options on the object , so that the top level parser can decide what to do with them
+__label__positive build dictionary of standard cookie-attributes standard and dictionary of other cookie-attributes rest
+__label__negative head object in own account : ok
+__label__negative * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * experimental * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+__label__positive thread passes back serialized hash table structure
+__label__negative order of the annotate/extra in the query doesnt matter
+__label__negative the dateformat for a given logfile
+__label__negative whether starttls has been issued successfully yet or not
+__label__negative generalizes bundle construction and resource processing turning on more options may require going to the sharableresource class and adding them
+__label__positive create a copy rather than a reference
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - class constants : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative all other special objects are returned as-is
+__label__positive there was an error , stop here and now
+__label__negative consumer states
+__label__negative metadata that is unique to a specific request instance
+__label__negative @ todo : assets and req_items
+__label__positive finalize the sizer and establish the dimensions of the dialog box the minimum width is explicitly set because the sizer is not able to take into consideration the width of the enclosing frames title
+__label__negative ! sqlalchemy session used to perform operations on the models
+__label__negative must happen after gemm as the gemm optimizer dont understant dot22scalar and gemm give more speed up then dot22scalar
+__label__negative brazilian fixed line and mobile numbers need to be dialed with a carrier code when called within brazil without that , most of the carriers wont connect the call because of that , we return an empty string here
+__label__negative handler object used for event handling
+__label__negative the we vote unique id of this election
+__label__positive only keep backups if the user wants them
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - initializes the object : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive return an array of strings that maps token id to its text @ since 273
+__label__negative external entry point for build step sets output destination & calls subclass implementation
+__label__negative no arities specified by user
+__label__positive find a unique refid for this credential
+__label__positive setup undo/redo
+__label__negative this is what we expect at the top of scripts :
+__label__negative nexus router type for asr1k driver tests , why ? - yes ! , it does not matter and there is only one hosting device for that router type in the test setup which makes scheduling deterministic
+__label__positive deleting model journalmission
+__label__negative include failed search terms here , so search dialog mentions them
+__label__negative old contents should not be immediately destroyed
+__label__negative try to find a triangle in the same chart as v2 that contains v1 so we can copy its normal value
+__label__negative various apis for extracting information from sysversion
+__label__negative no other inputs
+__label__positive associate fields to values
+__label__negative fill zone field parameter for feature class
+__label__negative dict from node - > float runtime
+__label__negative a dict is assumed to be the result of a _to_dict call
+__label__positive activate persistencetimer , used for persisting users and groups whenever critical updates occured
+__label__positive format the platform string
+__label__negative each filter call is processed at once against a single table , so this is different from the previous example as it tries to find tags that are two things at once rather than two tags
+__label__negative type of nodule
+__label__negative unable to find a valid end of central directory structure
+__label__negative changed from permerror to warning based on rfc 4408 auth 48 change
+__label__positive now link the files with the previously specified order
+__label__negative netscape spec parts company from reality here
+__label__negative get object with index = min_index
+__label__negative pylint : disable=w0622
+__label__negative we might be on a wrong branch , and is likely to encounter the no bytes in memory xxx exception just ignore it
+__label__negative action with specific id and multiple ids favors single id
+__label__positive find tags
+__label__negative an http/11 proxy is assumed to stay open unless explicitly closed
+__label__negative fault we will induce , for testing purposes
+__label__positive set one or more leds to the stored color by modulo
+__label__negative list of bools indicating if each output is nulltype
+__label__negative updated key for reinserting funky index value back into galaxy workflow tool_state
+__label__negative delete with wrong command should fail
+__label__positive do not save instance dictionary if not needed
+__label__negative === helper functions
+__label__negative fixme : should the exception be logged somewhere ?
+__label__negative there should be no need to remove duplicate code blocks because each block should have been specialized for the given nodename any block that isnt specialized should be returned via c_support_code instead of c_support_code_apply
+__label__negative awesome , were done now
+__label__negative construct metadata :
+__label__negative pragma : no cover
+__label__positive set one or more leds to the stored color by pattern
+__label__negative quoted values do not get coerced , eg -4
+__label__negative build directly off the shadowed sources , the build count should be 01
+__label__positive establish effects on angle to target output
+__label__negative servermanagercreate_imageserver , image_name , metadata=
+__label__negative -- - gl es
+__label__negative cross correlation ratio , correlation coefficient , rhohv
+__label__negative loading the whole genome ie , all variants
+__label__negative the parent of this frame
+__label__negative for oracle is equivalent to null the check needs to be done at this stage because join promotion cant be done at compiler stage using default_db_alias isnt nice , but it is the best we can do here similar thing is done in is_nullable , too
+__label__positive uploading with no user should fail
+__label__positive check if keyword is known - if not , exit
+__label__negative r_carrier is summed up over all techs ys and all locations dim_1
+__label__positive update the acquired skills
+__label__negative fix found use stashed connector
+__label__positive build a dictionary of valid token names
+__label__negative we have been enclosed in a context
+__label__negative expect exactly one line of output : the branch name
+__label__positive parse the query string
+__label__negative test locale support for __format__ code n for integers
+__label__negative try searching for a one-liner instead
+__label__positive open a bunch of file descriptors and verify that none of them are the same as the ones the popen instance is using for stdin/stdout/stderr
+__label__negative the set of images editable by anonymous user includes no images
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - module manipulation
+__label__negative test command
+__label__positive clean up other nodes
+__label__negative page 3 : 1 final collection
+__label__negative we dont support getting this info for local targets at the moment
+__label__positive send the status message
+__label__negative no changes made which could affect previous entry , keep going
+__label__positive match cgroup mountpoints to susbsytems always take the first matching
+__label__negative construct headers
+__label__negative pragma : no cover
+__label__negative -- -- -- -- -- -- -- -- -- 10 mb ethernet layer 3 enhanced status bits -- -- -- -- -- -- -- -- -- - this bit will be set if the 10 mb layer 3 card is an l3-6710 , else it is an l3-6705
+__label__negative pragma : no cover
+__label__positive delete image/flavor if not public
+__label__negative exclude fields that arent on the form the developer may be adding these values to the model after form validation
+__label__positive make sure the output directory exists
+__label__positive now check for truthiness
+__label__negative type-specific support code
+__label__positive report the outcome
+__label__positive now relabel a copy of the rhs where-clause and add it to the current one
+__label__positive create the objects
+__label__positive recurse into subdictionaries
+__label__negative void = glcleardepthfglclampf depth
+__label__negative in continous rendering mode , we also generate a new html the browser , if open , will refresh !
+__label__negative default to double data types , unless the field type is defined
+__label__negative functions not fully implemented or used
+__label__negative the example raised an exception : check if it was expected
+__label__negative lenient error mode lets this error pass , with truncated track
+__label__positive extract files from tarball nb - tarball should be set up so that all of its contents are in a parent directory whose name matches its releasename
+__label__positive resolve the ambiguous _ construction to
+__label__positive set the signature
+__label__positive create a nested meta dict for saving node locations
+__label__negative many to one
+__label__negative any exception may be raised
+__label__negative the specifier name is a dotted name that may resolve either to a module , a test case class , a testsuite instance , a test method within a test case class , or a callable object which returns a testcase or testsuite instance the method optionally resolves name relative to the given module what happens when faced with the empty string ? xxx this currently raises attributeerror , though valueerror is probably more appropriate
+__label__positive read the firmware version
+__label__positive import the topmost module/package if we fail , then check if the requested name refers to a builtin
+__label__positive lowercase the variable name because emacs allows mode or mode or mode , etc
+__label__positive raise this error to the caller
+__label__negative calling io_toposort here is fine because the results will only be used to compute the cmodule key which requires that the result of the toposort be deterministic the ordering doesnt need to include information about inplace operations because that information will be included explicitly in cmodule_key_
+__label__positive create an instance of an hdf5 table
+__label__positive check whether this event is for the drum channel
+__label__positive make sure that the serial number is higher
+__label__negative : maximum size of memory buffer for : attr : body in bytes
+__label__positive set initial state
+__label__positive re-raise any exceptions
+__label__negative 0 get /images verify no public images
+__label__negative initial html response
+__label__negative should the group use extra space along its parent groups layout orientation ?
+__label__negative number literals
+__label__negative graphical element events attribute module
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- type-specific routines
+__label__negative first line
+__label__positive now remove the driver we added to g , which also will remove all of the edges we added
+__label__negative freq is tick
+__label__negative does installs exist and is it non-empty ?
+__label__positive stretch the columns to fill the maximum width
+__label__positive parse the structure header to work out which type of reparse point this is
+__label__negative package selection
+__label__negative we need a special compare node so that we can distinguish 3 < x < 5 from 3 < x < 5 the two have very different semantics and results note that the latter form is always true
+__label__positive create a 2d grid of 3 points in each dimension
+__label__positive restrict sources to volume of interest
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- calculations
+__label__positive construct url
+__label__positive expand variables and nested conditinals in the merge_dict before merging it
+__label__negative one-to-many field foreignkey defined on the target model
+__label__positive set the connections attribute of readonly
+__label__negative 4 at this point , the correct series for the book is now in the series cache now we try to pick the matching issue in that series do so automatically if possible , or show the user the issue dialog if necessary or requesting in config method exit : if the user sees the issue dialog , she may skip , cancel the whole scrape operation , go back to the series dialog , or actually scrape an issue
+__label__negative first selection
+__label__negative +1 because the filename starts after the separator
+__label__positive if the value is already the desired type , then return it :
+__label__negative drmaa derived resource limits
+__label__negative todo : should this function be located outside the if sharing statement
+__label__positive acquire lease should succeed
+__label__positive connect the reference objects worldmatrix attribute
+__label__negative this will be used for logging the exception
+__label__negative some state parameters of the protocols that should probably be useful to have in the configuration and keep up-to-date
+__label__positive check if t2 is a number
+__label__positive draw bitmap
+__label__negative a list of words : map to read-only dict of word , count-items
+__label__negative ifdef __cplusplus
+__label__negative fapws3 never releases the gil complain upstream i tried no luck
+__label__negative did we get rid of it ?
+__label__negative we received some command to get a variable the text is : thread_id\tframe_id\tactivation token
+__label__negative check stats for p2
+__label__negative gen colors log
+__label__positive order output in prototxt order
+__label__negative test that the default update is taken into account in the right cases
+__label__positive set up the logger
+__label__negative instance method
+__label__negative this is used to ensure paths in generated zip files always use forward slashes as the directory separator , as required by the zip format specification
+__label__negative remove unneeded magic methods
+__label__negative remove the normal framework and replace it with a symlink to the copy in the embedded framework this is needed because xcode runs its strip phase after the script runs
+__label__negative account for time needed to start subtasks
+__label__negative calculate keying material from master secret
+__label__positive redirect to commit
+__label__positive give thread time to run - it should be stuck in lock acquire
+__label__negative struct ofp_switch_features
+__label__positive get any docfields from api_doc itself
+__label__negative closes the current element @ param tag the element name @ return the closed element @ defreturn element
+__label__negative openrosa standards
+__label__positive focus search buffer
+__label__negative construct the actual request body this is a mess
+__label__negative @ dotted_name arglist
+__label__positive make a copy of the tag list
+__label__negative r_vals are the true values associated with each variable in the graph they should not change during the evaluation of this function , even when the graph has destructive ops in it this dictionary is used to populate the storage_map as necessary
+__label__negative fixme temp
+__label__negative xxxx should we get the attribute without triggering code execution ?
+__label__negative the following call should be a no-op : any flag declared by a module is automatically key for that module
+__label__positive add some members to the pool
+__label__positive get the entire list of matches as a list of matchobject instances using findall here would return strings instead of matchobjects
+__label__positive interpret absolute pathname as relative , remove drive letter or unc path , redundant separators , and components
+__label__negative and the asset store does not exist
+__label__negative dont use multipart upload unless we need to simpler , and also we might have an older version of boto
+__label__negative enum ofp_table_feature_prop_type
+__label__negative prefix modes are treated as type b chanmodes , they always take parameter
+__label__negative to help understand what is following it help read the c code this prevent different op that generate the same c code to be merged , i suppose this wont happen
+__label__negative read-only field accessors
+__label__negative dht pro sensor temperature
+__label__negative otherwise this is a valid port
+__label__negative constants point to matched functions
+__label__positive create the action object , and add it to the parser
+__label__positive create simple_district as an alias to the largest geolevel eg counties
+__label__positive adding all the vectors of consistent_vox
+__label__negative ifdef not_defined include < file8-no > else include < file8-yes > endif
+__label__positive stop command
+__label__negative fmin fmax etc is only supported for these modes decide which frequencies to keep
+__label__positive if theres no pristine repos , create one
+__label__positive reload combo box
+__label__negative test version getter , and the default version number
+__label__positive list of all nodes
+__label__negative backslashes are only literal in the string and are never needed to make any special characters , so show a raw string
+__label__negative the command should only be undoable if edit or create mode was used
+__label__positive clear the bits
+__label__positive wait till we can open a connection
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - form-filling methods applying only to listcontrols
+__label__negative o1 and o2 are on tx only
+__label__positive read the nul terminated string
+__label__positive sort lists indexing does not guarantee that rows are returned in order
+__label__positive build an operator map to use for sqlalchemy
+__label__positive advance to find next run
+__label__negative extra check
+__label__negative because we set iid to false , the mean_validation score is the mean of the fold mean scores instead of the aggregate sample-wise mean score
+__label__positive find , parse , and run all tests in the given module
+__label__negative constants response codes
+__label__negative common options
+__label__negative file representing the completion of actions/rules/copies , if any
+__label__positive if this is a file-like object , try to fstat its file descriptor
+__label__positive update names
+__label__negative the return value optional
+__label__negative create the parloops arguments note that both the iteration set and the iteration region must correspond to that of the /base/ loop
+__label__negative 2 oauth group objects and 2 anon account agents for oauth , all of these agents since created with member or manually , 2 agents for jand and dick users , 2 doe groups since cant update anymore
+__label__negative were promoting
+__label__positive add a plugin
+__label__positive return the result code cast to the specified c type
+__label__positive is billed first time and has consolidated billing = > it should be billed only next month no matter if the trial spans over multiple months or not
+__label__negative this preserves dtype of the value
+__label__negative add future for output
+__label__negative and select_related
+__label__negative ai matches bj
+__label__negative electron-tau mass ratio
+__label__positive make sure that all the versions are correct
+__label__negative os_compat must be first to ensure timezones are utc pylint : disable=unused-import pylint : disable=g-bad-import-order
+__label__positive grab the cursor
+__label__positive decode input with the eventual \r from a previous pass
+__label__positive set numeric value with leading zeros
+__label__negative apply nic changes
+__label__positive then , serialize nested functions
+__label__positive define spreadsheet properties
+__label__positive save the request and set the segmentation context
+__label__negative rounding mode
+__label__negative reset wrapped dicom to refresh one_time property
+__label__negative pipe will only have data if the child process failed
+__label__positive save the new selection information :
+__label__negative for safety , all use of mktemp must occur in a private directory we must also suppress the runtimewarning it generates
+__label__negative force all strings into quotes , messy but will always work with xml_load_eval_content on the way back if you have to convert
+__label__negative note : if this client currently has messages being processed in the command queue for this mailbox then they are all tossed when they pre-emptively select another mailbox this could cause the client some heartburn as commands they issues will never get their final message but that is their problem selecting a mailbox , even if the attempt fails , automatically deselects any already selected mailbox
+__label__positive simple linear function without noise
+__label__negative the rotatepivot attribute of the spine object
+__label__negative deque of pending events : _consumerdeliveryevt and _consumercancellationevt objects that will be returned by blockingchannelget_event
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - message super entity - all inbound & outbound messages
+__label__negative set misshaped data -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive get the data size and time scale
+__label__negative i think the jacobian is symmetric so the r_op is the same as the grad
+__label__positive close the file
+__label__negative xxx this may be locale-specific !
+__label__positive return the docs we found
+__label__positive a dictionary of confirmed request choices and classes
+__label__positive wait until all workers are alive countdown * delta = 5 seconds max startup process time
+__label__negative otherwise , return normally
+__label__positive get keys and values using items
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- calculating
+__label__positive if the remote model does not have a default ordering , we order by its id field
+__label__negative case where y is negative : xc must be either a power of 2 or a power of 5
+__label__positive create temporary folder
+__label__negative python 24
+__label__negative block yoko and no groups
+__label__negative the charts that have been loaded
+__label__positive get output file
+__label__negative input netcdf parameter
+__label__positive create a chris user
+__label__negative notemriedem : allocate the vif before associating the instance to reduce a race window where a previous instance was associated with the fixed ip and has released it , because release_fixed_ip will disassociate if allocated is false
+__label__negative pythons guessed output stream encoding , or utf-8 as a fallback eg , when piped to a file
+__label__negative give it a name or debugging and pretty printing
+__label__positive try the first 10 unique onsets as beat tracking start locations
+__label__negative then i should eventually get all records
+__label__negative shouldnt matter since ndarray and subclasses dont participate in garbage collection , but just in case
+__label__positive ignore cyclic or redundant dependencies
+__label__negative resize behavior
+__label__negative called from -- set-log-level
+__label__negative due to a bug in libsndfile version < = 1025 , frames ! = 0 when opening a named pipe in sfm_write mode see http : //githubcom/erikd/libsndfile/issues/77
+__label__negative and comes back
+__label__negative test whether the exception is due to the fact that this is an older version of python that can not validate certificates encrypted with sha-2 if it is , then fall back on disabling the certificate validation and try again - unless the shotgun_force_certificate_validation environment variable has been set by the user in that case we simply raise the exception any other exceptions simply get raised as well for more info see : http : //blogshotgunsoftwarecom/2016/01/important-ssl-certificate-renewal-andhtml sha-2 errors look like this : errno 1 _sslc:480 : error:0d0c50a1 : asn1 encoding routines : asn1_item_verify : unknown message digest algorithm any other exceptions simply get raised
+__label__positive grove chainable rgb led - initialise numleds : how many leds do you have in the chain
+__label__negative none , none , none , none ,
+__label__negative effacer fichier dans folder parent
+__label__negative registers an image extension this function should not be used in application code @ param id an image format identifier @ param extension an extension used for this format
+__label__negative the job has already been cancelled , so cancelling it twice is a nop
+__label__negative used as a mixin by geometry transforms for use with imtransform
+__label__negative eg , pigments , depigments , repigments
+__label__negative nkern only
+__label__positive branch is done as an entitlement instead of as a user/password remove the anonymous user , require entitlement
+__label__negative for storage policies requiring 2-phase commit eg erasure coding , enforce > = quorum number of 100-continue responses - this indicates successful object data and metadata commit and is a necessary condition to be met before starting 2nd put phase
+__label__negative return the text
+__label__negative eg , spoon , rhythm
+__label__positive delete the terminated processes
+__label__negative this is expected to be handled by the caller !
+__label__negative g will be non-null if any postbuild fails run all postbuilds in a subshell
+__label__negative else , expected == b or expected is false and b is true both case are good
+__label__positive report corruption for each duplicate
+__label__positive even if the user authenticates properly , we can not allow them to login if they have no maildir
+__label__positive try to decode the extra field
+__label__positive 4 fire up our database connection
+__label__negative good service key ; processed only once
+__label__negative properties defined on the table
+__label__positive set one or more leds to the stored color by modulo
+__label__positive now we insert versions for the ops on which we depend
+__label__negative check quiet will silence warning
+__label__positive also call the callable
+__label__positive make sure we can access the package tree for building
+__label__negative fails if autoretry happens mistakenly
+__label__negative system python 27 on osx mountain lion
+__label__negative xxx add more info
+__label__negative ignore repeated ctrl-c see http : //wwwcherrypyorg/ticket/691
+__label__negative sadly ssl sockets return a different longer time out string
+__label__negative we need our own context menu for tables
+__label__negative set this to false in an expando subclass or entity to make properties default to unindexed
+__label__negative test after first play ends
+__label__negative tab to the next stop within or to right of lines text :
+__label__negative file to rename
+__label__positive wrap connection from tx to rx to capture ssync messages
+__label__negative fuse api implementation : { { { 2
+__label__negative -- - conjunction -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive set the modified flag so central directory gets written even if no files are added to the archive
+__label__positive if the second half of a wide char will overflow the line , go to the next line
+__label__negative change the status for all track items in this shipment to unloading the onaccept will then move the values into the site , update any request record , create any adjustment if needed and change the status to arrived
+__label__positive convert an int into a byte stack : value → result
+__label__positive store the defined names
+__label__positive set up the static file handler
+__label__positive create $ root_dir/scripts/ $ iternum/ , eg , clusterout/scripts/0
+__label__positive removing the last non-exceptional exit
+__label__negative run_declare , run_behavior , run_cleanup , sub
+__label__negative we need to do this so decimal places get normalised
+__label__positive encode the address
+__label__negative toolbar icon for viewing the whole version tree
+__label__negative code of 0 means error , second line is the error code
+__label__positive mock out the actual file reading itself , and slip in a yaml-dumped file
+__label__negative it is sometimes useful to only return a regular constant :
+__label__positive add a machine to get the machine_id
+__label__positive check for vaild system hostanme
+__label__negative parse it
+__label__negative spec is ignored , new * must * be default , spec_set is treated as a boolean should we check spec is not none and that spec_set is a bool ?
+__label__negative if true or false , we assert that we use the take version or not if none , we choose the best one applicable
+__label__negative markerlib implements metadata 12 pep 345 environment markers translate the variables to metadata 20 pep 426
+__label__negative construct url
+__label__negative short cut - if there are no extra or aggregates , then the values clause must be just field names
+__label__negative xxx should the partial digests be encoded too ?
+__label__positive create a spike train object
+__label__positive fire callback and close the transport
+__label__positive initialize form
+__label__negative converted to hex
+__label__negative all normal events
+__label__negative note that overriding __radd__ doesnt work , because the int type gets first dibs
+__label__negative if filename matches path_exclude_patterns then abort the history tracking and remove any references to this file from the history
+__label__negative hmm if getresponse ever closes the socket on a bad request , then we are going to have problems with selfsock
+__label__positive send a settings frame that reduces the flow-control window to 64 bytes
+__label__negative the characters of basetype , the l and ; of objecttype , and the of arraytype are all ascii characters
+__label__positive write control tuples as series of offts
+__label__positive check routeevent propagation
+__label__negative eg , baseless , shoeless
+__label__negative specifies how the file server should backup files , if enabled the backups live in the cache dir
+__label__negative suppling activatefish in addition to , not instead of , the bash script support
+__label__positive if rename dataset action already exists for this tool output
+__label__negative int32 array
+__label__negative give a invalid ip_int
+__label__negative used for nesting level * and * interpolation
+__label__negative only import to p4/
+__label__positive find a marker that is not already in the text
+__label__negative stop to avoid reactor was unclean error
+__label__negative body section frames
+__label__positive use the widget-index to create a unique id
+__label__negative xxx add more info
+__label__negative mathematical operations :
+__label__negative policy profile for port when using the cisco n1k plugin
+__label__positive publish the event
+__label__negative : the c-level fast validator to use :
+__label__positive build conversion dictionary
+__label__positive interpolate the value
+__label__positive clip to get rid of invalid divide complaint
+__label__negative set of processed requirements
+__label__positive set a content-type header if there isnt one already
+__label__negative netscape spec parts company from reality here
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - returns whether a specified object meets the filter/search criteria : should normally be overridden -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative size of label column in novanetworks is 255 , hence the restriction note : we can remove this check after v20 api code is removed because jsonschema has checked already before this
+__label__positive adding model crtrelationship
+__label__positive if the node is already up-to-date , return
+__label__negative lists nicks of users participating in conversations underneath comment areas for posts clicking list items inserts @ nicks into comment box the list shows a maximum of 25 nicks
+__label__positive remove duplicates
+__label__negative no models existed in the newly created api
+__label__negative log scale data
+__label__negative list of fact expressions , with label
+__label__negative if we dont know where it belongs we just add it anyways without formatting
+__label__negative currently , with no max_length parameter to decompress , this routine will do one yield per idat chunk : not very incremental
+__label__negative we use cpythons algorithm for the gamma dist and numpys for the normal dist standard t calls both so we cant check against either generators output
+__label__negative * _request / * _response methods get called appropriately
+__label__positive look for a regular expression match
+__label__negative test that initial trumps max_num
+__label__positive write changes
+__label__negative also accept linux vlan and other definitions but interface must exist
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- commands
+__label__positive perform the selection so that only one signal is emitted
+__label__negative y is not provided , neither before nor after the resolving
+__label__negative a c++ template type parameter
+__label__positive remember the editor to use for each individual list item :
+__label__positive verify reservation has been cleared
+__label__positive read children
+__label__negative not until 27 , keep as plain dict then
+__label__negative generates the first level of the search
+__label__positive 11 do appropriate source weighting to the forward computation matrix
+__label__negative correlation fcns :
+__label__negative no need to print a warning or raise an error now , it will be done when fn will be called
+__label__negative if we have all of the returns and we arent a syndic , no need for anything fancy
+__label__positive else use series expansion to avoid loss of precision
+__label__positive now safe to come back here again ; remove marker from backtrail
+__label__negative pylint : disable=too-many-arguments we use get_or_create here because the method is also called when transfers are reconciled with the payment processor
+__label__positive set attributes
+__label__negative supply side sellers
+__label__negative see comment at cc_command for why theres two pdb files
+__label__negative end handle brutal deletion
+__label__negative hooks that wrap around mutations most are class methods with the notable exception of put , which is an instance method
+__label__negative drill a hole in the side
+__label__positive create an array in the same place
+__label__positive define the proof , and instanciate it with variables
+__label__negative be happy it is already therehowever , if you are trying to change the major/minor , you will need to unlink it first as osmknod will not overwrite
+__label__negative otherwise , create a mock method __setitem__
+__label__negative adding model planetschematicstypemap
+__label__negative : the recycle portion of the unit id
+__label__positive in test mode , save email args but dont send email dont send email if problems will be repaired
+__label__negative action is always build , but perhaps apple will fix this someday ?
+__label__negative the person still exists
+__label__negative strings and comments may safely contain unsafe characters
+__label__negative not always defined at this point
+__label__negative subcall from original setup_networks_on_host
+__label__negative too much waste , trim arrays
+__label__negative sanity check register values
+__label__negative in the constructor , sets the storage to the arguments
+__label__negative other distributions without density and probability
+__label__positive write to file
+__label__positive now that assets have been gathered , check to see if viewpoint was modified during the gathering phase
+__label__negative notevish : if there is no network host , set one
+__label__negative no shape specified , args have to be broadcasted
+__label__negative test that all methods can be used
+__label__positive pass false as last arg to _parse for first element , since we already pre-parsed the string as part of our and pre-parsing
+__label__negative create folder to store output ================================================================
+__label__negative cached functions can be run from a distinct process also stresses issue # 1603 : uncached function calling cached function shouldnt fail compiling
+__label__negative because of the update
+__label__positive find modules
+__label__negative event handlers
+__label__negative database assignments dont change
+__label__positive verify the metadata of the snapshot role
+__label__negative most specific to least general
+__label__positive request id from the previous slice execution
+__label__negative if the new axis is the current d-val , inc/dec again since w , h , d tuple doesnt exist for axis == d see selfaxis_map
+__label__positive determine the main colors
+__label__positive create the new plot panel
+__label__negative store a reference into local variable 3 stack : objectref →
+__label__negative stores non repetitive values in the disclosed friends container
+__label__negative any ahrd that matches eg at5g54690-like protein
+__label__positive no download require , then create dir and exit
+__label__positive for each square , compute a bit vector of the columns and diagonals it covers , and for each row compute a function that generates the possiblities for the columns in that row
+__label__positive check lista against common
+__label__negative adding unique constraint on flavor , fields owner , id
+__label__negative handler takes path , but no query data
+__label__negative end of if cluster_nodesstatus == success
+__label__negative csrf
+__label__positive strip extension
+__label__negative dont use simple_response here , because it emits headers we dont want see http : //wwwcherrypyorg/ticket/951
+__label__positive set up a memory block in the remote application
+__label__positive find matching ones if available
+__label__positive validate the session token
+__label__positive convert it to context encoding
+__label__positive create a blank x509 certificate and store it in this object
+__label__positive write the vertex indices
+__label__negative 找到储存着所有被匹配广告的集合， 以及储存着所有被匹配广告的基本 ecpm 的有序集合， 然后返回它们的 id 。
+__label__negative test sampling without replacement in a large grid
+__label__positive bypass write error and check read
+__label__negative non-printing element , append directly
+__label__negative storage i/o control normalized latency compatibility : 410 / 500
+__label__positive create ctypes
+__label__positive attempt to parse the first digits as an international prefix
+__label__negative : active : class : wsgiapplication instance see : meth : set_globals
+__label__negative 1 update references in select normal columns plus aliases , group by , where and having
+__label__positive make sure default snmp udp port numbers are correct
+__label__positive make sure clock elements are defined
+__label__positive check to make sure rev and mirror/bare are not both in use
+__label__negative notifying about script completion ================================================================
+__label__negative give it a configuration that says there should be a manifestation
+__label__negative the real part of this function is difficult to evaluate when zreal = -logcoszimag
+__label__negative inherited filter count unknown as non-inherited
+__label__negative check interp method
+__label__negative corecomp needs to be updated first here but because we require it to be updated last , the whole thing comes back as one job
+__label__negative similar to test_main_module_help , but this time we make sure to declare some key flags
+__label__negative datetime - equals
+__label__negative translators : model verbose name and instance representation , suitable to be an item in a list
+__label__negative test plugin reload == true on move
+__label__negative note : make sure this key can not conflict with usernames by using invalid username characters
+__label__negative indent sizes
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - returns whether the menu action should be defined in the user interface : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive create all of the list item trait editors :
+__label__negative built-in > dont support complex
+__label__negative notetr3buchet : setup networks on destination host
+__label__negative instancer does not like pynode objects
+__label__negative refresh the _tinfo
+__label__negative segmentackpdu
+__label__negative gluint = glcreateshaderglenum type
+__label__negative float was being rounded to integer on gte queries on integer field tests show that gt , lt , gte , and lte work as desired note that the fix changes get_prep_lookup for gte and lt queries only
+__label__negative ssync should return true , only when the second candidate node has not get the replica yet
+__label__positive create model return values
+__label__negative pragma : no cover
+__label__negative wrap the usage parts if its too long
+__label__negative confirmedrequestpdu
+__label__negative geonames username
+__label__positive read children
+__label__negative if selfmbox is none then this mailbox was deleted while this user had it selected in that case we disconnect the user and let them reconnect and relearn mailbox state
+__label__negative might be an old policy , so do it anyway
+__label__negative deletes a number of subelements @ param start the first subelement to delete @ param stop the first subelement to leave in there
+__label__negative the object which will handle logins for us
+__label__negative note : with the current regexp , this will match at most once :
+__label__negative first couple of items should be gone
+__label__negative ok to use workspaceframe , since were in prepare_run
+__label__positive fill computed attributes
+__label__positive since the first step is the impulse itself , we actually want steps+1
+__label__positive compute the effective weight matrix
+__label__negative xxx this doesnt handle nested components
+__label__negative special case for strings where the out array only has one dimension the second dimension is rolled up into the strings
+__label__negative e^k-1 = ek-1 / dk-1 dk = dk - e^k-1ek-1 / dk-1
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- create user folders -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+__label__positive write the < xdr : pos > element
+__label__negative when i create a query block
+__label__negative f file output file level int indentation level
+__label__negative parse nodecfg
+__label__negative describe zone data
+__label__negative the built-in max function dont support complex type
+__label__negative xx modules are not currently included in any of these value types
+__label__positive append a blank comment and record start offset
+__label__positive read the image data after the run but before group it should be null
+__label__positive add property to changeset
+__label__negative try valid offset , hopefully 8192 works on all oses
+__label__negative xxx pheader += line switch back to headscan state
+__label__negative note that the result of m * x is dense if x has a singleton dimension
+__label__positive check if all inputs except broadcasted scalar are fortran in that case , create an fortran output ndarray
+__label__negative if the pk column is none or the oracle equivalent , then the related object must be non-existent - set the relation to none
+__label__positive check columns
+__label__positive remove - before a prerelease tag
+__label__negative unixodbc defaults to 2-bytes sqlwchar , unless -dsql_wchart_convert was added to cflags , in which case it will be the size of wchar_t note that using 4-bytes sqlwchar will break most odbc drivers , as driver development mostly targets the windows platform
+__label__negative 2to3 doesnt convert __unicode__ to __str__
+__label__negative wrong type
+__label__negative the link action may or may not have actually created the file , depending on whether the -n option was used or not delete the _exists and _rexists attributes so they can be reevaluated
+__label__positive write p values
+__label__negative numpyreal return a view !
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+__label__negative : encoding used for attribute values
+__label__negative use a new controller that is tied to the abstraction vistrail to process exceptions , also force upgrades to be immediately incorporated , use self__class_ to create controller so user is prompted if in gui mode
+__label__positive render the template with a provided template dictionary
+__label__negative ballot_placement : note - even though googleciviccontestoffice has this field , we store this value in the ballotitem table instead because it is different for each voter
+__label__negative nurbs curve components
+__label__negative called from configdialogpy
+__label__negative test get pid_files by number
+__label__positive parse a date in a valid format , get a parsed result
+__label__positive define the states virtual name
+__label__negative this is the colloquial name for an entry , mostly used for branding purposes
+__label__negative { decision reasons for debugging
+__label__positive remove the last ee function from the map
+__label__positive set orientation
+__label__negative specifies an exposed object ceq
+__label__negative maybe could be a shallow copy , but just in case
+__label__positive delete all the constraints
+__label__negative an ed25519 tuf key
+__label__positive starting at the root valdoc , walk down the variable/ submodule chain until we find the requested item
+__label__negative euc_jp codec
+__label__negative gh 4554
+__label__negative everything else should have a timedelta of 7 days
+__label__positive convert it to a test , and wrap it in a docfilecase
+__label__negative from a string
+__label__negative this is bad juju , but lets do it anyway
+__label__negative might need to go outside -- since has nothing to do with self
+__label__negative this might slow down data throughput , but at the expense of safety
+__label__negative identifier hexsha
+__label__positive test doing a regular expression match in an mmaped file
+__label__negative raise notimplementederror
+__label__negative disable synchronous operation this is supposed to make sqlite perform much better but it has to be enabled wit -- nosync because you might lose data when the file system isnt cleanly unmounted
+__label__negative imresize will not resize if the depth is anything other than 3 or 4 if its 1 , imresize expects an array
+__label__negative do the regex magic ; also enforces 2 or 4 digit years
+__label__negative no value , a lone token
+__label__negative write argument in the form c * 100 * * e where e = self_exp//2 is the ideal exponent , to be used if the square root is exactly representable l is the number of digits of c in base 100 , so that 100 * * l-1 < = c < 100 * * l
+__label__negative if we received an alert
+__label__positive process transaction
+__label__negative bye bye data , it was nice knowing ya
+__label__positive return iter to make the purpose of the method clear
+__label__positive simple select
+__label__negative daniel kluev version
+__label__positive read attributes
+__label__negative init target/source
+__label__negative our scaled down quotient , must be in the open interval 0,10
+__label__negative simple intraline change
+__label__negative binds the event menu to onfetchimage below and item
+__label__negative : specified event is already enabled for at least one of the specified mechanisms
+__label__negative if a prior response exists , then it must be completed otherwise , we can not read this responses header to determine the connection-close behavior note : if a prior response existed , but was connection-close , then the socket and response were made independent of this httpconnection object since a new request requires that we open a whole new connection this means the prior response had one of two states : 1 will_close : this connection was reset and the prior socket and response operate independently 2 persistent : the response was retained and we await its isclosed status to become true
+__label__negative keys page
+__label__negative pygsurf has scrolled up since the last time this was drawn , move the input up
+__label__positive increment the number at risk
+__label__negative a slight variation on the restricting the filtering choices by the lookup constraints
+__label__positive get all the children for each ancestor immediate children not descendants
+__label__positive backslashes \ and quotation marks are always replaced with a backslash-escaped version of the same everything else gets its replacement from the class _encode_transforms array
+__label__negative res from smart search
+__label__negative cheap administrative directory locking
+__label__negative root finding and fixing functions
+__label__negative process with nat
+__label__negative cycle frequency must be between between our bounds
+__label__negative should i raise something ?
+__label__negative if initial is passed in , its a list of related objects , but the multiplechoicefield takes a list of ids
+__label__negative when insetting two planes that differ in e-dim , e=0 is on outside and e=1 is on inside - need outermost node pos , so use e=0
+__label__positive determine which plots we have
+__label__positive plot pairs
+__label__positive read children
+__label__negative set the model parameters
+__label__negative apparently , the socket option is not available in this machines tcp stack
+__label__negative loop-lifted functions cant be cached and raise a warning
+__label__positive get the gid of the object we are delegating
+__label__negative should be two issues : no questions , and no voters
+__label__positive we need case_id , person_id and exposure_risk from the current record
+__label__positive a parent redirect was added as an upgrade but this would be a new install of this child trove skip it
+__label__negative base_prefix
+__label__positive handle exogenous parameters
+__label__positive finally get all results from the result queue once more and finalize the queue
+__label__negative if were generating hyperrefs , add the appropriate packages
+__label__negative table header
+__label__negative offset shelves
+__label__positive otherwise , move to the start of the input
+__label__negative a better test is done later into test/_windowspy
+__label__negative read and return temperature and humidity from grove dht pro
+__label__negative dynamic property : values for query coerce basic python types from strings
+__label__positive join lists of byte or unicode strings mixed lists are not supported
+__label__negative digitalwrite command format header
+__label__negative use arity ie , number specified in info header
+__label__positive read attributes
+__label__positive see if m1 has f2 , too
+__label__negative std imports
+__label__negative then we extend our blocks
+__label__negative public/private filter count unknown as public
+__label__negative changed so that workplane has the center as the first item on the stack
+__label__positive entire display on
+__label__positive when we dedent , pop the last elements off the indents list and the context list if the last context element is a name , then were ending a class or function def block ; so write an end-div tag
+__label__positive verify default route via gw
+__label__positive check to make sure that we are streaming
+__label__negative adapted from noise_regularization
+__label__negative for example , to construct a training vector with the head of previous chunks as a feature doing this with sentencechunks would discard the punctuation marks and conjunctions sentencechunks only yields chunk objects , which amy be useful features
+__label__positive remove bill from the group , note that group list is idempotent - it describes the desired state
+__label__negative in namespace , @ type var : describes the type of a var
+__label__negative testcase interface
+__label__positive capture the uuids
+__label__positive make sure the referenced record is accessible :
+__label__negative xxx : selftest_choose_directory expects the file to have been deleted via __del__ by the time its called , which is cpython specific garbage collection behavior we need to delete it now in jython
+__label__negative the relationship has been created
+__label__negative last unit
+__label__positive let expat do the buffering , if supported
+__label__negative tuples of key , value for fields that can be updated in the argument_hash for this assetstore type
+__label__positive create a new dataset on opencolorado
+__label__positive get none by timestamp
+__label__negative created process info
+__label__negative in bsd , you can still read from rfd , so never use data is not none here
+__label__negative no write support , probably under gae
+__label__negative the process is running for 2 seconds
+__label__positive create empty matrices
+__label__positive 35 remove unwanted orphane outputs
+__label__positive export and copy formats to the output folder
+__label__negative bad wkb
+__label__positive add timestamps
+__label__positive return a new shifted context
+__label__positive take care of invalid regular expressions
+__label__negative the following functions allow you to set/get common parameters please note that not all parameters can be set directly
+__label__positive store stack traces from from_var
+__label__negative there are some symbolic tensors that limit the number of steps
+__label__positive to replace constants in the outer graph by clones in the inner graph
+__label__negative cant use isinstance with mocks
+__label__negative self : : py : class : locations object that has been updated attr_name : name of the observed attribute - global_frame value is the updated attribute value
+__label__positive now test with exceptions turned off
+__label__negative xxx md5-sess
+__label__positive set attributes
+__label__negative stdoutstrip is needed to remove newline character
+__label__negative we need to add extra precision to guard against losing accuracy 10 times the degree of the polynomial seems to work well
+__label__positive create new loan - expense links
+__label__negative simplify things for get requests
+__label__negative finish cleanup
+__label__positive set the source size in the manifest
+__label__negative fx = x for x \in 0 , 1 , x-1/2 for x \in 1 , 3 antiderivative is then fx = x * * 2 / 2 for x \in 0 , 1 , 05 * x * x/2 - 1 + a for x \in 1 , 3 where a = 3/4 for continuity at x = 1
+__label__negative the editor publishes an exploration
+__label__positive get the resolution
+__label__negative the client knows to submit only once with a specific voter_id
+__label__positive compute cumulative transformation
+__label__negative public-private key pairs are implemented by the keypair class a keypair object may represent both a public and private key pair , or it may represent only a public key this usage is consistent with openssl
+__label__negative handle error condition deal with stdout being none , too
+__label__positive change the parameter value to something different
+__label__negative use the base class :
+__label__negative dictionary/data creation
+__label__positive we replace the current list of parent objects with the list of related objects , filtering out empty or missing values so that we can continue with nullable or reverse relations
+__label__negative or if there is only one search visible named my_search
+__label__negative id v1 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+__label__negative right now this is so we can be lazy and not implement updaters for every attribute yet -- some we may not need at all , tbd
+__label__negative the stat object encodes functions using funcids , or tuples of filename , lineno , funcname create a mapping from these funcids to routinedocs
+__label__negative 4 get /images with marker verify only two images were returned
+__label__negative ssync should return true , only when the second candidate node has not get the replica yet
+__label__negative if they dedent past block_indent , keep track of the minimum indentation this is used when removing leading indentation from the lines of the doctest block
+__label__positive update the score method
+__label__negative todo : add another field to the dictionary for the outer_area_shield area
+__label__negative provide syntactic sugar for a make bundle with a single anonymous target
+__label__negative step 9 figure out which outs are update rules for shared variables and so on
+__label__negative xxx if we could specify a flavor for updates we could just do that we cant , so make changesets and install those
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - functions for adding optional arguments -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive add constraints if needed
+__label__positive some templates have a rootlevel extends in this case we can safely assume that were a child template and do some more optimizations
+__label__negative generic exception class
+__label__negative assume that this method is referenced , even though it isnt ; we dont want to throw unnecessary system_messages
+__label__negative python 3
+__label__negative getting all the mel strings for meshvertexface is slloooww - so check if its complete , and if so , just return the vtxface * form
+__label__negative mock out the actual file reading itself , and slip in a yaml-dumped file
+__label__positive add custom shell script phases for actions sections
+__label__positive close the connection
+__label__negative output one file from the p4 stream - helper for streamp4files
+__label__negative deal with dhcp
+__label__positive check stack number matching when stackid index is 1
+__label__negative end def writeindex
+__label__negative create_db= < path name > < sort order >
+__label__negative we are in the more complex case when we do not actually know if the first slice was in reverse or not in case it was not in reverse :
+__label__negative set object methods to be tested could be overwriten in subclass
+__label__negative if we can infer statically that the shape of sm and dy are the same in dimension k or the shape of dy is equal to 1 which triggers the internal broadcasting in crossentropysoftmax1hotwithbiasdx we do not need to check it at runtime
+__label__negative < blankline > can be used as a special sequence to signify a blank line , unless the dont_accept_blankline flag is used
+__label__negative both server and client are http/11 or better
+__label__positive get the connected edges of v0
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - imports : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative basic resource access and distribution/entry point discovery
+__label__negative -- -- -- -- -- -- -- -- - preamble parameters -- -- -- -- -- -- -
+__label__negative -- - pyopengl
+__label__positive convert utc time tuple to seconds since epoch not timezone-adjusted
+__label__negative maximum number of urls in each sitemap , before next sitemap is created
+__label__positive make sure clock elements are defined
+__label__negative field_needs contains a list of whats needed to load in next step different cases
+__label__positive increase precision by 2 the precision increase is compensated for at the end with a division by 100
+__label__positive create a user
+__label__negative pre-process request
+__label__negative pragma : no cover
+__label__positive file is larger than what fits into a 4 byte integer , fall back to the zip64 extension
+__label__negative a return descriptor represents the type of the value returned from a method it is a series of characters generated by the grammar :
+__label__positive refresh children names in links parent node
+__label__negative popen cmd , arg1 , arg2
+__label__negative no modifications to architectural state or val/rdy calculations
+__label__negative the output dtype is the same as x
+__label__negative looking for lats , long and elevations within file # supports two points per line the most you would find for a path generally
+__label__negative cp1256 codec
+__label__positive 1 determine length of field with most number of columns
+__label__positive define a generic class for arrays
+__label__negative plugins
+__label__negative what you see in browser wont change without an update
+__label__negative paxos methods
+__label__negative check if update ?
+__label__negative using type instead of isinstance so instance of subclass doesnt test as equivalent
+__label__positive need to override to allow for different covariance types
+__label__negative if just viewing the form or the form is not valid
+__label__positive connect constrainedparent node
+__label__positive ignore subdirs , eg svn ones
+__label__negative handle case where no user markup is to be added , just return line of text with users line format to allow for usage of the line number
+__label__negative based on the actual code in numpy loopscsrc for signed integers
+__label__positive set system uuid to instance uuid
+__label__negative in python 3 , spawnu should be used to give str to stdout :
+__label__positive connect a pair of sockets
+__label__negative basic timing breakdown :
+__label__positive strip off anything before that index
+__label__negative root private case
+__label__negative testlist : expr , expr * , testlist_safe : test , test+ , exprlist : expr , expr * ,
+__label__positive only draw when no sub application was started
+__label__negative if any shard is active then the mr is active this way , controller wont prematurely stop before all the shards have
+__label__positive detect base dir
+__label__negative default dot input encoding is utf-8
+__label__negative nb this pattern could form a memory leak - each shared variable always points to a view , and that view gets further and further from the eg data_of_a with each call the memory leak is in the increasing number of view objects forming a chain to the underlying data
+__label__positive get source orientations
+__label__negative decryption proof , a json object no longer needed since its all trustees
+__label__negative xxx this may well be wrong which rfc is hdn defined in , if any for the purposes of rfc 2965 ? for the current implementation , what about ipv6 ? remember to look at other uses of ipv4_re also , if change this
+__label__negative test will fail if /bin/sh is a symlink to csh
+__label__negative also , from c++17 we can have typname in template templates
+__label__negative is the list of items being edited mutable ? this value overrides the default
+__label__negative attribute text before first subelement this is either a string or the value none , if there was no text
+__label__positive now we can safely call stopinstance
+__label__negative : class used for the configuration object
+__label__negative typ , name , idlflags , default
+__label__positive compute the sum of weighted sum of impulse responses
+__label__negative set attributes
+__label__negative observation intercept exogenous data with mle estimation of parameters enters through a time-varying observation intercept is equivalent to simply subtracting it out of the endogenous variable first
+__label__negative trimming fcns :
+__label__positive find the last transform that is associated with the standard space model
+__label__negative for now , just see if we can oslistdir it
+__label__negative this could be useful to help finding refcount problem but it is very slow and it is not sure it will help
+__label__negative or code id_token
+__label__positive now remove the files gather a list of sha1s of files to remove from the filestore
+__label__positive match order
+__label__negative note : this stanza must appear after all actions have been decided dont excluded sources with actions attached , or they wont run
+__label__negative application object
+__label__positive test timestamps in range
+__label__negative filled parameters
+__label__positive send a message , then subscrible
+__label__negative we have an authority , so for rfc 3986-compliant urls by ss 3 and 33 , path is empty or starts with /
+__label__negative type before obj
+__label__negative for use in the test_cwd * tests below
+__label__positive convert the voxel into zindex and offsets round to the nearest larger cube in all dimensions
+__label__negative although we didnt fail , certain nc terms may have failed so we rebuild them after attempting a partial subs on them
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- navigation -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+__label__negative legal equality fields
+__label__negative create_vdi may be called simply while creating a volume hence information about instance may or may not be present
+__label__negative used for general web api access
+__label__negative 代码清单 7-6 < start id=zset_scored_composite/ > 和之前一样，函数接受一个已有搜索结果的 id 作为可选参数， 以便在结果仍然可用的情况下，对其进行分页。
+__label__positive figure out the number of questions and trustees
+__label__negative note this p global and used in sigwinch_passthrough
+__label__negative { information about variables
+__label__positive read attributes
+__label__positive check if any of the arguments for this task have been given multiple values
+__label__negative adding extra check to make sure the selected field will not be null since we are adding a in < subquery > clause this prevents the database from tripping over in , null , selects and returning nothing
+__label__negative different name :
+__label__negative testing a 3d linestring
+__label__positive treat 2109 cookies as netscape cookies rather than as rfc2965 cookies
+__label__negative if it exists by name
+__label__positive add normal user
+__label__positive build workspace : add 5kb on either side of a transcription start site
+__label__negative put it all back together
+__label__negative public introspection attributes
+__label__negative validate the nsfont-specific spec valuce
+__label__positive plot a vetical line for censoring
+__label__negative if this request is in iframe-format , action urls should be in iframe-format as well
+__label__positive add makefile to list of sources
+__label__negative removing m2m table for field study_areas on journal
+__label__negative support for working around vcfs with bad format headers
+__label__negative convenience variables
+__label__negative inputbuffer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+__label__negative structured type can not be nan and we can test this
+__label__negative link defs are in the form : id : url optional title
+__label__negative bool can not be subclassed
+__label__negative non-multipart messages have an implicit first part but no other parts - reject any request for any other part
+__label__negative the dep on abi should not affect the ordering of the update because we ignore abis
+__label__positive stdout is set to open file object
+__label__negative 将字符串的前 6 个字符转换为相应的数字值， 比如把空字符转换为 0 、制表符（tab）转换为 9 、大写 a 转换为 65 ， 诸如此类。
+__label__negative information about target files , like file length and file hashes this schema allows the storage of multiple hashes for the same file eg , sha256 and sha512 may be computed for the same file and stored
+__label__positive determine what other nodes use this storage
+__label__positive if the option now has no option string , remove it from the container holding it
+__label__negative will be interrupted by a keyboardinterrupt
+__label__negative unix pathname pattern expansion
+__label__negative modify of split record
+__label__negative list of methods to call once the user interface is created
+__label__positive close the connection
+__label__negative ============= end initiate =============
+__label__negative handle the single plot case
+__label__negative test expiration setter
+__label__negative 31444 lsarqueryinformationpolicy opnum 7
+__label__positive set up connections to the main map widget
+__label__positive generate reversal command try to be safe here check that we can probably reverse before applying enmod command
+__label__negative this should fail if permissions are not restored
+__label__negative the item and all other items for same service key must get backed off until backoff limit is hit , then the offending item should get tagged as error , and not be available for further consumption
+__label__negative if it is a joint , use this joint to fix to environment
+__label__negative expdiff > = prec+1 = > absself/other > 10 * * prec
+__label__positive need to trim down the array to size only if the dimensions are not the same
+__label__negative tz is time zone specifier string
+__label__negative linear kernel
+__label__negative we take first from the oldest purchase date for non-expiring stock
+__label__negative the file should still exist
+__label__positive iterate in all actions of this node , and pick corresponding actions
+__label__negative todo : not sure what sets source to what user has passed as target , but this is what happens when that is fixed , we also wont have to make the user always append envmsvssolutionsuffix to target
+__label__negative are we using the chunked-style of transfer encoding ?
+__label__positive scale and shift
+__label__negative this request is received from an agent when it runs for the first time and uplink is detected
+__label__negative this lets us get fully syntax-highlighted tracebacks
+__label__positive persist users configuration
+__label__positive use system_profiler to search for the app
+__label__positive set flag to store the module name from deployment_settingsmodule_name
+__label__negative command line with extra stuff
+__label__negative widget packing body
+__label__positive set up the scrollbar
+__label__negative these relate to the proof of x0
+__label__negative we start by assuming the screen saver is disabled this way , the first call to check_idle will report whether the screensaver is active all subsequent calls will only tell you if the screensaver state has changed
+__label__negative only postgis has left and right lookup types
+__label__negative put all clients of assert inputs if exist into merge_candidates todo : deactivated for now as this cause cycle in the graph
+__label__negative only exists for backwards compatibility
+__label__positive check duplicate vpool name
+__label__negative make sure , slicing doesnt change the class
+__label__negative basic thread wrapper class for delta-timed led pulsing pulses an led in perfect wall-clock time small delay by 10/fps to prevent unecessary workload
+__label__positive set __path__ to mark the module as package
+__label__negative faster than multiplication for large minor axis in csc/csr
+__label__positive if the rebased image is going to have a backing file then explicitly set the backing file format to avoid any security concerns related to file format auto detection
+__label__negative hack : the following line forces the filters to be changed
+__label__negative this function replaces the paint methods of the given item and its children the new version doesnt actually draw any of the items if the level of detail of the top item which is the only one checked is under the threshold only the top-level item is checked , because children might have different scales
+__label__negative add acquires using threadingevent for synchronization theyll be acquired exactly in the order defined in this list
+__label__negative we have an authority , so for rfc 3986-compliant urls by ss 3 and 33 , path is empty or starts with /
+__label__negative only end background panel rendering w last background curve
+__label__negative arguments of size 2 ,
+__label__negative first page
+__label__negative mortals like 1-indexed things
+__label__negative setup the collections to fit into 2 different categoriers ensure 2 of them have similar titles
+__label__positive scan loaded glyphs
+__label__positive look for a shared prefix
+__label__positive save these into the combined arrays
+__label__positive check for equality speedup
+__label__positive set elements
+__label__negative if any of the rules were executed , the file defined by $ executed will have been created if this file does not exist , nothing was executed this will result if all the files already existed and make determined that there was no need to execute any rules if this is the case , inform the user
+__label__negative offsetting the each ring in the polygon by 500
+__label__negative replication step
+__label__negative dxq terms
+__label__negative technically , we need to poll s_regrdy in dhcsr here to ensure the register write has completed read it and assert that s_regrdy is set
+__label__positive get a shortcut to the compute client flavormanager mock
+__label__negative by default any output has a tap value of -1
+__label__positive remove numerical suffixes from identifiers
+__label__positive create a dockwindow to hold each separate objects view :
+__label__negative various clients send flags like -l or -al etc we just ignore them
+__label__positive get the stored configs is any
+__label__positive create a new alias for this table
+__label__negative image comes in from iraf flipped for screen display
+__label__negative ndim is an optional argument indicating the length of the shape ndim not specified , ok
+__label__positive clean html tags
+__label__positive override the pythons logging logger class as soon as this module is imported
+__label__negative self__r_type is whats left after doing the splittype
+__label__negative major version of the hsa runtime specification supported by the agent the type of this attribute is uint16_t
+__label__negative goes to another instruction at branchoffset signed short constructed from unsigned bytes branchbyte1 < < 8 + branchbyte2 args2 : branchbyte1 , branchbyte2 stack : no change
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - warning priorities for cap
+__label__negative something bad happened
+__label__positive update with added json to define description and new names of files
+__label__negative ambiguous only used in harsh mode for spf validation
+__label__negative if there were unrecognized options , raise an exception unless the options were named via -- undefok
+__label__negative these includes are needed by scalar and tensortype , we declare them here and they will be re-used by tensortype
+__label__negative dlls belong into the lib_dir , except those listed in dlls_in_exedir , which have to go into exe_dir pythonxydll , w9xpopenexe
+__label__negative second argument is file with example cli input prints parsed tabular result
+__label__negative supported operators are : = , ! = , > , > = , < , < = , like , ilike , in , not like , not ilike , not in , child_of , =like , =ilike , = ?
+__label__negative header for tcp section is tcp : in linux/mac and tcp statistics for in windows
+__label__positive first calculate new axis
+__label__negative were doing testall - use a different path
+__label__negative collecat all snp coordinates for each gwas interval
+__label__negative link with us
+__label__positive unwrap templates
+__label__negative call the css_ < key > method if it exists this filters the css attributes from the html attributes
+__label__negative extensibility foreignobject this module declares markup to provide support for extensibility
+__label__negative allow reverse relationships to models defining m2m fields if they target the specified field
+__label__negative < resource name=sample information path=http : //igvbroadinstituteorg/data/hg18/tcga/gbm/gbmsubtypes/sampletabletxtgz/ > creates resource element
+__label__positive get file size
+__label__positive allow a new axis size if doing post reduction broadcast so we need to know the axis size prior to reduction
+__label__positive generate the last move
+__label__negative do we change the layer-2 decoder for raw capture
+__label__negative defaults to checking for genome_build
+__label__negative check that the supplied value is valid todo error
+__label__negative old , bugged logic , reproduced here only to warn users
+__label__negative numerator and denominator are ok , it was really case 2
+__label__negative rdst-2848 try to commit the multi-url recipe
+__label__negative test grid-search with unsupervised estimator
+__label__positive look for a breadcrumb in vs blossom or put a new breadcrumb
+__label__negative @ package sct_get_centerline - run a gaussian-weighted slice-by-slice registration to roughtly estimate the spinal cord centerline - fit the rought centerline to 3d spline function description about how the function works : 1 slice-wise realignement -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- inputs : - spinal cord image - binary image with a point center of spinal cord the algorithm iterates in the upwards and then downward direction along z for each direction , it registers the slice i+1 on the slice i it does that using a gaussian mask , centers on the spinal cord , and is applied on both the i and i+1 slices inweight and refweight from flirt nb : the code works on aprlis output : - rough centerline - gaussian mask - transformation matrices tx , ty 2 smoothing of the centerline -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- input : centerline , transfo matrices it fits in 3d using an independent decomposition of the planes xz and yz a spline function of order 1 apply the smoothed transformation matrices to the image -- > gives a smoothly straighted spinal cord but stil with errors due to deformation of strucutre related to curvatyre output : - centerline fitted - transformation matrices tx , ty smoothed - straighted spinal cord -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - copyright c 2013 neuropoly , polytechnique montreal < wwwneuropolymtlca > authors : julien cohen-adad , geoffrey leveque license : see the licensetxt ==========================================================================================
+__label__negative ifndef swig_buffer_size define swig_buffer_size 1024 endif
+__label__negative finds the first matching subelement , by tag name or path @ param path what element to look for @ return the first matching element , or none if no element was found @ defreturn element or none
+__label__negative this check needs to be done here , since we cant later remove this from the method lookup table , as we do with add and remove
+__label__negative else if py_version_hex > = 0x02010000
+__label__negative output to send send , sendline
+__label__positive verify row status works even if status isnt set on the column
+__label__positive if the field is unique , populate the reverse descriptor cache
+__label__positive construct and send request
+__label__negative transfer liquid from each well in the first column of a 96-well plate to each well of the second column using a new tip and a different volume each time :
+__label__negative set tooltips
+__label__negative workaround for h5py bug - cant access link directly , need to use file attribute
+__label__positive delete local container
+__label__positive set suggestion only if the text was not yet changed
+__label__negative value too big for a , b , or c , silently ignored
+__label__positive bad input , but assume since a value was passed that a delay was desired , and sleep for 5 seconds
+__label__positive add the slaves
+__label__negative main code block
+__label__negative okay no error so far , change the status to returning
+__label__negative only use a default bridge / gateway if we configured them via the legacy salt cloud configuration style on other cases , we should rely on settings provided by the new salt lxc network profile style configuration which can be also be overriden or a per interface basis via the nic_opts dict
+__label__negative wrong type
+__label__positive test for invalid offset , length and combo
+__label__positive remember last point for next line
+__label__positive define the argument that sets the graph node
+__label__positive render the widget
+__label__negative were finished ! flush the decompressor if we have one , and move on to the additional headers
+__label__positive force the cache to be fully populated
+__label__positive set on first use
+__label__negative test inline formsets where the inline-edited object uses multi-table inheritance , thus has a non autofield yet auto-created primary key
+__label__negative volume accounting
+__label__negative test multi-server
+__label__positive parameters can be given to extra_select , * if * you use a sorteddict
+__label__positive run the input loop until ready
+__label__positive wait to make sure thread starts before we fork a new process
+__label__negative tokenization
+__label__positive make sure we get proper error text
+__label__positive constructing the new shell by adding 500 to every point in the old shell
+__label__negative this is for bfdrsifpol case
+__label__positive check with python result
+__label__positive skip all proxy to the root proxied model
+__label__positive see if there are more moves possible
+__label__negative gh10856 dict with scalar values should raise error , even if columns passed
+__label__negative the light manager
+__label__positive loop through each and build a list of all the content
+__label__positive commit with blockcommit
+__label__negative generalized exponential integral
+__label__positive change working directory to script location
+__label__negative server and/or client are http/10
+__label__negative : the standard metadata for the trait :
+__label__negative test domain name
+__label__positive optionally randomly shuffle the times
+__label__positive setup the credentials
+__label__negative total number of bytes of all files in this data set
+__label__positive create a book and author on the default database
+__label__positive checking the response content
+__label__negative poboxpress owner settings todozero : review this
+__label__negative boolean - not equals - no
+__label__positive locate the line containing client root : and extract the following path
+__label__negative 42-2 summits in bed
+__label__negative try to write 16 bits data
+__label__negative this method defines the name that can be used to identify this related object in a table-spanning query it uses the lower-cased object_name by default , but this can be overridden with the related_name option
+__label__negative test for validation with callable defaults validations rely on hidden fields
+__label__positive compute new disks information
+__label__positive make the decoder if it doesnt already exist
+__label__negative test that after a contacts-only user adds a user their subscriptions that were marked as pending are allowed xxx this test relies on the results of the previous test being correct
+__label__positive add help and version arguments if necessary using explicit default to override global argument_default
+__label__negative if file has s3 as prefix , remove s3 to get module name
+__label__negative } end of information extracted from docstrings group
+__label__positive limit not reached increment count
+__label__negative extra rule inputs also go into the project file concrete outputs were already added when they were computed
+__label__positive build a soupstrainer
+__label__positive replace old crash details with new info specific to this crash
+__label__positive launch the dummy runner
+__label__positive check against all tokens
+__label__positive verify ip is not deallocated if the security group refresh fails
+__label__positive remove any existing deferred names from the current set before setting the new names
+__label__negative entity - > pb ; pb is an entityproto message
+__label__positive failed to send info to the agent keep the data in the database as failure to send it later
+__label__positive return entire list as xml/json
+__label__positive attach original root disk
+__label__negative a constant likely larger than the underlying os socket buffer size , to make writes blocking the socket buffer sizes can usually be tuned system-wide eg through sysctl on linux , or on a per-socket basis so_sndbuf/so_rcvbuf see issue # 18643 for a discussion of this number
+__label__positive extract the user-specified images
+__label__positive set coordinates for landmark at the center of the cross
+__label__negative 2 example & doctest - an example is a < source , want > pair , where source is a fragment of source code , and want is the expected output for source the example class also includes information about where the example was extracted from - a doctest is a collection of examples , typically extracted from a string such as an objects docstring the doctest class also includes information about where the string was extracted from
+__label__negative volatility orders had specific watermark price attribs in server version 26
+__label__negative these are handled specially in zipextimporter
+__label__negative cache for the screens generated by the margin
+__label__negative this order assures all the annotations are on top of all the graphics
+__label__positive make room for mbr
+__label__positive test scaling for arraywriter instances test special case of all zeros
+__label__negative handle special case where window-close is called after the window has been removed from the application or the application has closed
+__label__positive set keyframe for stabilizer
+__label__negative consider for instance the following matrix
+__label__positive find the required scene
+__label__negative struct _sid_identifier_authority definitions
+__label__negative head changes once again , cur_head doesnt change
+__label__negative ospathrelpath has been introduced in python 26 we define it locally for earlier versions of python
+__label__negative were in the mainprocess and were not daemonizing , return ! no multiprocessing logging listener shutdown shall happen
+__label__positive 5 if we are forced to , or we have no result yet , display issueform
+__label__negative this is order preserving , since selfextra_select is a sorteddict
+__label__negative test improperly formatted arguments
+__label__negative import both cv opencvs official python bindings and pyopencv , a python binding to cv that makes it much easier to use mostly using pyopencv below , but in some cases the inpaint function fails using pyopencv so it gets used via the regular cv
+__label__negative rstrip and lstrip are used by substitution definitions where they are expected to return a text instance , this was formerly taken care of by userstring note that then and now the rawsource member is lost
+__label__positive reallocate memory
+__label__negative selfobject is available in updateview as the object being currently edited
+__label__positive loop through each line of the file and look for a match
+__label__positive initialize y_pred now we know its dimensionality
+__label__negative notevish : this is no longer used but cant be removed until we major version the network_rpcapi to 20 noterussellb no need to object-ify this since get_vifs_by_instance is unused and set to be removed
+__label__negative test improperly formatted argument
+__label__negative | given |
+__label__negative ick it may require * inserting * spaces if we back up over a tab character ! this is written to be clear , not fast
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - returns a shadowgroup for the group which recursively resolves all imbedded include objects and which replaces all imbedded group objects with a corresponding shadowgroup : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive write a request to the access log
+__label__positive add timestamps
+__label__negative helper combines filename prefix with extension part @ param prefix filename prefix @ param ext extension string , including a leading period the period is replaced with a platform-specific separator , if necessary @ return the combined name
+__label__negative roles are the index of the db role array and a bool for whether the checkbox is default enabled or not
+__label__negative first received pdu
+__label__negative the connection object that has been opened to the servers , if one has been opened
+__label__positive convert xcode-type variable references to sh-compatible environment variable references
+__label__negative at least one term is a nulltype : the total gradient will also be a nulltype
+__label__negative only allow schedule of aux for now
+__label__negative rfc says that 2:4 and 4:2 are equivalent
+__label__negative permuted ols
+__label__positive fix a possible malformed url
+__label__negative see test_encoding_assumptions for how these magical safe= parms were figured out the differences are because of what cookie-octet may contain vs the more liberal spec for extension-av
+__label__negative amax : find max area
+__label__negative also used for ci
+__label__negative array of inner onset interval cluster means
+__label__positive construct the predicted state and covariance matrix for each time period depending on whether that time period corresponds to one-step-ahead prediction , dynamic prediction , or out-of-sample forecasting
+__label__positive only get network-vif-plugged events with vifs status is not active with vif whose status is active , neutron may not notify such event
+__label__negative remaining 9 queries are the partial rebuild process
+__label__negative counter rollover
+__label__negative for all apply nodes set of distinct not mergeable nodes
+__label__negative muon-proton mass ratio
+__label__negative set undersized data -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative for progress reporting :
+__label__negative eg , apple , so it doesnt include apply
+__label__negative this is an invalid update event
+__label__negative if x is an int8 or uint8 , numpytanh will compute the result in half-precision float16 , where we want float32
+__label__positive vary the ttl
+__label__negative pickling of datequerysets used to fail
+__label__negative added at protocol version 43
+__label__negative rule exceptions
+__label__negative relative path from source root to our output files eg out
+__label__negative always use protocol version 50 for checkversion if were about to talk to a pre-protocol-version 51 server , we will make it trace back with too many arguments if we try to pass kwargs
+__label__negative overrides the default * * name * * trait
+__label__positive combine everything
+__label__positive seek to the next command
+__label__positive generate links
+__label__positive check if titles need refreshing
+__label__positive filter to just item packs for this item
+__label__negative in forward compatibility mode , we ignore the element and its # contents
+__label__positive delete pycode file
+__label__negative merge/newmerge/list/remove are always single-thread processes
+__label__negative -- - pyopengl
+__label__negative trivial case
+__label__negative option constants
+__label__positive initalize the tinting of each cell to 0 255 is max , -255 is minimum
+__label__positive get the list of available sensors
+__label__positive set up for next iteration
+__label__negative protocol-level methods
+__label__negative custom search filters
+__label__positive close the file
+__label__positive clear the bits
+__label__negative if : - the field descriptor has more than one part foo__bar , or - the field descriptor is referencing an m2m/m2o field , or - this is a reference to a model field possibly inherited , or - this is an annotation over a model field then we need to explore the joins that are required
+__label__negative required keys and extra crap
+__label__negative private arguments for internal testing
+__label__positive iterating through all input files to be zipped adding node uuid for each input step
+__label__negative include < stdioh >
+__label__positive remove theme from config
+__label__positive assign names to connectivity methods
+__label__positive creating a state object using a built polygon
+__label__positive copy files into tmp folder
+__label__negative extensibility module
+__label__negative update the dataset from arcgis metadata if configured
+__label__positive get the end of the month when the subscription was activated
+__label__positive strip leading and trailing lines :
+__label__positive fill in the loop counter for the duplicate reductions that were removed
+__label__negative here we know that we are incrementing a matrix of zeros or a broadcasted vector since d_sm and sm are the inputs of softmax_grad , if the graph is valid , they have the same shape , so we also know that z has the right shape
+__label__negative the numpyasarray are needed as if a or b is a sparse matrix this would result in a numpymatrix and not a numpyndarray and the behave differently causing problem later in particular a_npy_matrixflattenshape == 1 , n_element
+__label__negative : a dict to map http status codes eg 404 to phrases eg not found
+__label__negative error if unloadable
+__label__negative test multi-server kwarg once
+__label__positive calculate a distance beyond 1 to place it so all the points will fit
+__label__negative case 3 : subclass of new-style class ; here it gets interesting
+__label__positive create a popup with the image
+__label__negative remove trailing , & wh sp
+__label__positive dispatches tokens to the current handler each handler should return the handler to call for the next token < p > this method also handles indentation and dedentation tokens , and manages the scope stack
+__label__negative : a list of the standard simple fields accepted by epydoc this : list can be augmented at run-time by a docstring with the special : c { @ deffield } field the order in which fields are listed here : determines the order in which they will be displayed in the : output
+__label__negative we should have a generator that will give us the text that we want if we do not then we were not able to find an appropriate section to parse
+__label__positive reset translation to default
+__label__negative usetabs true - > literal tab characters are used by indent and dedent cmds , possibly mixed with spaces if indentwidth is not a multiple of tabwidth , which will cause tabnanny to nag ! false - > tab characters are converted to spaces by indent and dedent cmds , and ditto tab keystrokes although use-spaces=0 can be configured manually in config-maindef , configuration of tabs v spaces is not supported in the configuration dialog idle promotes the preferred python indentation : use spaces !
+__label__negative always show table , otherwise it cant be ajax-filtered @ todo : need a better algorithm to determine total_rows which excludes url filters , so that datatables shows the right empty-message zerorecords instead of emptytable
+__label__negative sub is either also an array or a single numeric value
+__label__negative testlist : expr , expr * , testlist_safe : test , test+ , exprlist : expr , expr * ,
+__label__negative only one client has the unique label
+__label__negative in sync
+__label__negative the volumes will be defined on the map as well as in the grains those in the map are used by salt-cloud to create and attach the volumes using the snapshot , whereas those on the grains are available for states and modules to play with eg , to mount the devices
+__label__negative nargs is always disallowed
+__label__negative how close are the source points to the surface ?
+__label__positive find the valuedoc that the proxy_for name points to
+__label__negative when requesting a new file from the jobstore first check if filestoreid is a key in _jobstorefileidtocachelocation
+__label__negative dictmaker : test : test , test : value * ,
+__label__positive find the line number for modules
+__label__negative changing dataframe to list if dataframe
+__label__negative everyone whos been in instructor training but doesnt yet have a badge
+__label__negative python-maec support code
+__label__positive create body and mass
+__label__negative take the action if we didnt receive a suppress value eg from a default
+__label__negative revision 12 logically follows the imported revisions , not 11 accordingly , connect it to the last ntdbr and possibly change its type
+__label__positive do not preallocate memory for outputs that actually work inplace
+__label__negative but not when min magnitude is too large scaling mechanism kicks in
+__label__negative added at protocol version 67
+__label__negative ok - its visible so read it
+__label__negative no bedtobigbed on the 32 bit cluster
+__label__negative this request overrides the default
+__label__negative check the wrap_view
+__label__negative technically we could support bool dtyped index for now just return the indexing array directly
+__label__negative variables that are known to be declared probably from outer frames or because they are special for the frame
+__label__positive check that only one subparsers argument can be added
+__label__negative depend on the deletion of any possible non-proxy version of us
+__label__positive if the user specified an ip version and the interface does not have that kind of ip addresses , throw an exception
+__label__positive check that the argument name is unique
+__label__negative the no_borrow outputs are the ones for which that we cant return the internal storage pointer
+__label__negative when we know the sign of step , the graph can be made simpler
+__label__negative -- -- -- -- -- -- -- -- -- -- uniform distribution -- -- -- -- -- -- -- -- -- -
+__label__negative plus x-axis , for shifts , always corresponds to outward pointing radius that bisects the slice , with positive y axis , for shifts , at a 90 degree counter-clockwise rotation from this x basic trigonometry and this spec yeilds lines below
+__label__positive interpret __exact=none as the sql is null ; otherwise , reject all uses of none as a query value
+__label__positive create targets
+__label__positive update the python emulating dicts and add the memory allocated by the node
+__label__positive connect sensor and give it the virtual world object
+__label__negative similar to loadtestsfromname , but takes a sequence of names rather than a single name what happens if that sequence of names is empty ?
+__label__negative the flow does not need to actually remain running
+__label__negative basic test
+__label__negative we need to return null always , so it is not undefined
+__label__negative pylint : disable=unused-variable
+__label__negative list of middleware classes to use order is important ; in the request phase , this middleware classes will be applied in the order given , and in the response phase the middleware will be applied in reverse order
+__label__negative wait for it to finish
+__label__negative if both operands are finite and equal in numerical value then an ordering is applied : if the signs differ then max returns the operand with the positive sign and min returns the operand with the negative sign if the signs are the same then the exponent is used to select the result this is exactly the ordering used in compare_total
+__label__positive if the requested window is already open , resolve conflict
+__label__negative enforce invertibility
+__label__positive remove isolated nodes
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - traits view definition : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive normalize the filename
+__label__positive append new rows
+__label__negative were making a component by componentclassshapenode set a default label if one is specified
+__label__negative prior to python 25 , exception was an old-style class
+__label__positive copying input data to tmp folder
+__label__negative : a thread-safe namespace not used by bottle
+__label__negative our wiretype is the same as the delegates
+__label__negative text describing the restriction for scope=restricted
+__label__negative write the < a : ext > xfrm sub-element
+__label__positive read the image dimensions
+__label__positive raise error if trans is not provided when head coordinates are used and mri_resolution and include_surfaces are true
+__label__negative note that at this point the items may only be buffered , so the process can not shutdown until the feeder thread has finished pushing items onto the pipe
+__label__negative some products go into the output root , libraries go into shared library dir , and everything else goes into the normal place
+__label__negative now , test graphs with weights
+__label__negative list of t2star images im and their label decision seg =segmentation of the gray matter , slice by slice
+__label__negative < img > allowed from curr_pos on , < a > from anchor_allowed_pos on
+__label__negative this affine does have lps voxel order
+__label__negative m is the monotonicity breakdown point : this is the minimum displacement when dy/dx is low
+__label__negative : sequence of allowed uri schemes if not set , all schemes are allowed
+__label__positive then write out an edge using the rule
+__label__negative fwrite % s * deriv inputs : % s\n % * tablevel+tabsize+2 , inputs fwrite % s * deriv outputs : % s\n % * tablevel+tabsize+2 , outputs
+__label__positive parse a time in a valid format , get a parsed result
+__label__negative worksheets embedded in global stream
+__label__negative options are present
+__label__positive read attributes
+__label__negative a vectorn is a one-dimensional array , ndim is thus stored as a class readonly attribute
+__label__negative 2009-05-31 sjm fixed problem with non-zero reserved bits in some style records in mac excel files 2008-08-03 sjm ignore palette record when bookformatting_info is false 2008-08-03 sjm tolerate up to 4 bytes trailing junk on palette record 2008-05-10 sjm do some xf checks only when bookformatting_info is true 2008-02-08 sjm preparation for excel 20 support 2008-02-03 sjm another tweak to is_date_format_string 2007-12-04 sjm added support for excel 2x biff2 files 2007-10-13 sjm warning : style xf whose parent xf index ! = 0xfff 2007-09-08 sjm work around corrupt style record 2007-07-11 sjm allow for biff2/3-style format record in biff4/8 file
+__label__positive decide which docformat is used by this module
+__label__positive make junorequest act as a dictionary for selfraw
+__label__positive get the alt context this node should be evaluated in ie the least shifted context with all the shifts this node depends on
+__label__positive unmount the filesystem
+__label__negative first day of week babel : 6 = sunday , 0 = monday , vaadin : 0 = sunday , 1 = monday
+__label__positive compile a theano function for the cudnn implementation
+__label__negative does not raise ctxt is admin
+__label__positive generate the second moves
+__label__positive check to make sure the router is ok
+__label__positive write end-of-zip-archive record
+__label__positive formstyle with separate row for label eg default eden formstyle
+__label__negative state of the selection
+__label__negative clone http : //githubcom/dimagi/vellum into submodules/formdesigner and use this to select various versions of vellum source on the form designer page acceptable values : none - production mode dev - use raw vellum source submodules/formdesigner/src dev-min - use built/minified vellum submodules/formdesigner/_build/src
+__label__negative if the regions are all empty , we just move from where we are to where were going if there are regions , we use the regions and just do the cap , lower , upper within that region thats different from emacs but i think this is better than emacs
+__label__negative really not the best way to do this if one request hangs forever the whole thing will just hang in the middle
+__label__negative modules also disallow __dict__ assignment
+__label__positive lists as inputs are ok , but turn them into tuples
+__label__negative time in seconds before celeryexceptionssofttimelimitexceeded is raised the task can catch that and recover but should exit asap note that there is a separate , shorter timeout for validation tasks
+__label__positive exclude fields that failed form validation theres no need for the model fields to validate them as well
+__label__negative void = glbuffersubdataglenum target , glintptr offset , glsizeiptr size , glvoid * data
+__label__negative la to rgba
+__label__positive return to the current branch , link should be restored
+__label__positive find the first on curve type and recycle it for the last on curve type
+__label__negative were we able to create it ?
+__label__negative ensure that the individual patterns are coherent eg , if left= and right= , then this will raise an exception :
+__label__positive append a to dparams , so that it is included in parameter updates !
+__label__negative note : to avoid creating a cycle that might cause problems for gc -- see python library doc for sys module
+__label__negative data , indices , indptr format
+__label__positive revert to default theme
+__label__negative theres a warning for any voxel sizes == 0
+__label__positive save the timeout for actors
+__label__negative a writable replica of an application nc should be present if there a cross reference to the target dsa exists depending on whether the dsa is ro we examine which type of cross reference to look for msds-nc-replica-locations or msds-nc-ro-replica-locations
+__label__positive scan the results directory of __init__py files first trim the path of the head package , then convert directory name in package name , finally push into modulefinder
+__label__negative check smaller than smallest subnormal numbers rounds to zero precision of python double is 52 bits , so use it to test closeness
+__label__negative status line
+__label__negative change some data
+__label__negative account for the border of the split box
+__label__negative indexes of entries in the central directory structure
+__label__negative if necessary , advertise that we know rfc 2965
+__label__negative test calling with a missing trove
+__label__positive kill subprocess , spawn a new one , accept connection
+__label__positive map conditions per the spec to signals
+__label__negative testing the mutability of geometry collections
+__label__negative the most generic lookup
+__label__negative the object number
+__label__negative mobu info
+__label__negative part 2 of the log likelihood for both ml and reml
+__label__negative append fpr7 , spr13 , lrr14 , pcr15
+__label__positive if were still in the domain , use a special converter that doesnt match the period
+__label__negative get group into focus and selected
+__label__negative thisll get caught by a controller event handler
+__label__negative -- expression visitors
+__label__negative special case : if the docstring contains a single literal block , then try extracting the summary from it
+__label__negative generate data
+__label__positive delete the doc that we added
+__label__negative should not crash
+__label__negative but querying beyond the end of the result set will fail
+__label__negative local variable
+__label__positive only return photos if get_photos is true
+__label__positive create the requested type of editor from the editor factory :
+__label__positive set the vector attribute if it is not connected
+__label__negative creating the polygon , testing its properties
+__label__negative things from pydev that we dont want to trace
+__label__negative open uses st_blksize whenever we can
+__label__positive removing other people from the group
+__label__negative xxx what about metadata ?
+__label__negative then i see the appropriate json
+__label__positive let one hour and ten minutes pass
+__label__positive if a team is found , build contributors list
+__label__negative fplist : fpdef , fpdef * ,
+__label__negative returns the number of subelements @ return the number of subelements
+__label__negative set top promoted name into var metadata
+__label__positive set user manager config
+__label__negative initial/previous state
+__label__positive restore the decoder to its state from the safe start point
+__label__positive write contents of file to their destination in the fs cache
+__label__negative setting attributes make sure to convert to real python type before saving
+__label__negative sign the xml file created by encode warning : in general , a signed credential obtained externally should not be changed else the signature is no longer valid so , once you have loaded an existing signed credential , do not call encode or sign on it
+__label__negative cny-948 - dont return non-present trove objects they dont actually exist , but are referenced , which means that when returning them you get an object w/ no sha1 , eg
+__label__negative need a custom lookup to join with brand
+__label__negative the line style for the cells top line
+__label__negative we need all the results in order to be able to do the prefetch in one go to minimize code duplication , we use the __len__ code path which also forces this , and also does the prefetch
+__label__negative struct _alpc_port_attributes32 definitions
+__label__negative default parameters
+__label__positive a single list of all faces from all objects on the stack
+__label__negative todo : this needs to work for all types of objects , not just vectors !
+__label__positive now insert the other fileids select the new non-null streams out of tmpnewfiles and insert them in filestreams
+__label__negative modify it somewhat
+__label__negative by the end of last slice , task enqueue succeeded but datastore commit failed that transaction will be retried and adding the same task will pass user data is duplicated in this case
+__label__negative see decorator for function body
+__label__negative we need to count because pep8 reports an offset line number if there are comments
+__label__negative should be three issues : no trustees , and no questions , and no voters
+__label__positive perform a generic whois query to a server and get the reply
+__label__negative relocating the environment :
+__label__negative simple ack
+__label__negative for top of table
+__label__negative migrate vdisks if node is offline
+__label__negative dump the contents of a credential to stdout in human-readable format @ param dump_parents if true , also dump the parent certificates
+__label__negative qualified means that a post is not removed which implies that its not unshared , either
+__label__negative periods may contains different freq
+__label__negative ^ initial state but taps not provided
+__label__positive prior to closing the file , include instructions for generating an ok file indicating that the makefile was successfully executed and delete the makefile
+__label__negative we need to pair any placeholder markers in the select dictionary with their parameters in select_params so that subsequent updates to the select dictionary also adjust the parameters appropriately
+__label__negative we can only know if we have a destination if we know where we are
+__label__negative type 1
+__label__negative these deletes should be harmless since they are done on child geometries
+__label__negative 1st vip
+__label__positive get devices
+__label__positive the current session gets a variable representing the location of the current workflow
+__label__negative use non-default parameters , and larger dimensions because of the integer nature of the result
+__label__negative if we get here , we are just viewing all locks
+__label__negative if we have a content-disposition
+__label__negative instance methods and classmethods need to lose the self argument
+__label__negative epoch for the minute
+__label__positive check that the parsed result does a round trip to the same format
+__label__positive turn the data structure into unicode , then encode the unicode
+__label__positive if this is a symmetrical m2m relation to self , remove the mirror entry in the m2m table
+__label__positive use that index to slice out the repeated segment sequence
+__label__negative set attributes
+__label__positive create a unicode object with appropriate string value
+__label__positive ensure ssh supports vpn tunneling
+__label__negative the constructor
+__label__positive always save groups and lib if they are loaded as they contain sub-objects that may not notify the main object about changes
+__label__positive filename of the sound to be played
+__label__negative prep the data going out
+__label__positive find extent of the image
+__label__negative we should see the original cmd line with the files contents spliced in flags from the file will appear in the order order they are sepcified in the file , in the same position as the flagfile argument
+__label__negative as list
+__label__positive test incorrect old password
+__label__positive set the bits
+__label__negative python 30
+__label__negative mongod < 220 closes exhaust socket on error , so it behaves like test_exhaust_query_network_error here we test that on query error the client correctly keeps the socket * open * and checks it in
+__label__positive handle case where user does not want context differencing , just yield them up without doing anything else with them
+__label__negative test when driverdeploydeploy raises an exception
+__label__negative linear scan , presume nothing about values/binner except that it fits ok
+__label__positive ensure bscale/bzero are numbers
+__label__negative 3 doctest parser
+__label__negative this is the most overweight_device holding a replica of this part that can shed it according to the plan
+__label__positive reattach all edge that are not part of the fanout and copy the links we will resolve the incoming edges in the next step
+__label__positive split out the note and duration components
+__label__positive check old graph is the same
+__label__negative only a new > > > prompt can end an exception block otherwise an ellipsis in place of the traceback frames will be mishandled
+__label__negative read attributes
+__label__positive build dictionary of standard cookie-attributes standard and dictionary of other cookie-attributes rest
+__label__positive get the connection weights
+__label__positive unknown users should yield an empty result
+__label__negative set this svnkit specific variable to the current test test name plus its index being run so that svnkit daemon could use this test name for its separate log file
+__label__negative | then |
+__label__positive default timezone for users
+__label__negative cleanup was called
+__label__negative : the working lines similar to history , except that this can be : modified the user can press arrow_up and edit previous entries : ctrl-c should reset this , and copy the whole history back in here : enter should process the current command and append to the real : history
+__label__positive check size of datatx
+__label__negative for testing : when sysstdout is a stringio under the test harness , it doesnt have an encoding attribute just use utf-8
+__label__positive create video playblast
+__label__positive recurse into children
+__label__negative for test with file i/o use n files on disk to preserve seek performance
+__label__positive set the weight of the other parents to 0 and the current to 1
+__label__negative second selection
+__label__positive find the points in the swarm that could possibly overlap with the point we are currently placing
+__label__negative pg options
+__label__negative grove led bar - initialise orientation : 0 = red to green , 1 = green to red
+__label__negative find physical and angular extent , and pixel area in steradians
+__label__positive pattern for modifying the requestedexecutionlevel in the manifest groups are setup so all text * except * for the values is matched
+__label__negative the parameters
+__label__positive make sure these are errors
+__label__positive ensure that when the main program exits the thread will also exit
+__label__negative when all else fails this will usually be ascii
+__label__negative fapws3 silently changed its api in 05
+__label__negative get current value
+__label__negative py_ucs4 coerces from and to single character unicode strings or at most two characters on 16bit unicode builds , but we also allow python integers as input the value range for py_ucs4 is 01114111 , which is checked when converting from an integer value
+__label__negative should be doublestar
+__label__positive create a shadow of 10-1
+__label__positive list all folders under mountpoint
+__label__negative the value of the max_stack item gives the maximum depth of the operand stack of this method §262 at any point during execution of the method
+__label__negative __stdin__
+__label__negative copyright c 2001 - 2014 the scons foundation permission is hereby granted , free of charge , to any person obtaining a copy of this software and associated documentation files the software , to deal in the software without restriction , including without limitation the rights to use , copy , modify , merge , publish , distribute , sublicense , and/or sell copies of the software , and to permit persons to whom the software is furnished to do so , subject to the following conditions : the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software the software is provided as is , without warranty of any kind , express or implied , including but not limited to the warranties of merchantability , fitness for a particular purpose and noninfringement in no event shall the authors or copyright holders be liable for any claim , damages or other liability , whether in an action of contract , tort or otherwise , arising from , out of or in connection with the software or the use or other dealings in the software
+__label__positive check where the field name doesnt match the database relation
+__label__negative all of these contain module names
+__label__positive set the route
+__label__negative integer - smaller
+__label__positive exchange the current mark with the specified pos , and return the current mark
+__label__positive now associates the address to the actual project
+__label__negative otherwise , just use the archtag with no flags
+__label__negative maintain the illusion that group is the same as user as states need this
+__label__positive escape attribute value
+__label__negative we use a tuple to ensure that the resource comes from this provider , and an object to make every resource provided unique
+__label__negative xxx there is a minor transactionality issue if we get interrupted before append_string call -- scope will exist but not be recorded -- but this is very unlikely and the consequnces of it are fairly minor newscope will abort next time and scope will have to be manually cleaned up
+__label__positive get the values and classification for the key
+__label__negative fbgetselectedmodels , ,false means all unselected models
+__label__positive copy keysssb
+__label__positive populate grad_dictvar and return it
+__label__positive decode database imdb databases use iso-8859-1
+__label__negative bs tail is already at the right place , do nothing
+__label__negative need a resolvesource pointing to the changesets on the disk to solve dependencies only in that set
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - disable rheaders
+__label__positive keep track of the examples weve run
+__label__negative sort s | uniq -c | sort -rn | head -3
+__label__positive rearrange to a row-oriented list
+__label__negative check that every conflicting experiments is not present in the list of tested experiments , in which case , complain
+__label__positive try to transfer test_value to the new variable
+__label__positive convert a zipfile subpath into an egg-relative path part list pseudo-fs path
+__label__negative create a shadow of 10-1
+__label__negative height to use for the edit view
+__label__negative trap broken pipe if were allowed to automatically reconnect
+__label__negative signalh didnt change in c99
+__label__positive define and store the path to the executable
+__label__negative the window got bumped check if there are pending commands , and issue one of them
+__label__negative might drop back multiple levels
+__label__positive use my key for signing
+__label__positive update for cases leaving the risk set
+__label__negative make this image into a thumbnail this method modifies the image to contain a thumbnail version of itself , no larger than the given size this method calculates an appropriate thumbnail size to preserve the aspect of the image , calls the { @ link imagedraft } method to configure the file reader where applicable , and finally resizes the image < p > note that the bilinear and bicubic filters in the current version of pil are not well-suited for thumbnail generation you should use < b > antialias < /b > unless speed is much more important than quality < p > also note that this function modifies the image object in place if you need to use the full resolution image as well , apply this method to a { @ link # imagecopy } of the original image @ param size requested size @ param resample optional resampling filter this can be one of < b > nearest < /b > , < b > bilinear < /b > , < b > bicubic < /b > , or < b > antialias < /b > best quality if omitted , it defaults to < b > nearest < /b > this will be changed to antialias in a future version @ return none
+__label__negative additionally , the underlying transport should have been told to go away
+__label__negative we should also be able to pickle things that use select_related the only tricky thing here is to ensure that we do the related selections properly after unpickling
+__label__positive load dom node map
+__label__negative i dont see any way to avoid scanning the query string char by char , so we might as well take that careful approach and create a state-based scanner well use int variables for the state 0 -- outside quoted string 1 -- inside single-quote string 2 -- inside quoted identifier 3 -- inside escaped single-quote string , e 4 -- inside parameter name eg : name
+__label__positive skip non-healthy nodes
+__label__negative target 2 ejects to target 3
+__label__positive try to find more successors if we failed to resolve the indirect jump before
+__label__negative should check the stop slice ?
+__label__negative if were patching out a class and there is a spec
+__label__negative the format of the resulting receive config dict after extraction from the receive configuration file ie , receivecfg the receive config file must contain a general section , and this section the pushroots , repository_directory , metadata_directory , targets_directory , and backup_directory entries see tuf/pushtools/pushtoolslibpy and tuf/pushtools/receive/receivepy
+__label__negative read attributes
+__label__negative we are an actual column
+__label__positive find data parameters
+__label__negative for now hard-code the server name of the source arcgis server machine
+__label__positive move to the selections end
+__label__negative running 5 min peak compatibility : 350 / 400 / 410 / 500
+__label__positive return the docs we found
+__label__negative it should keep the ball
+__label__positive write configuration with datetime stamp
+__label__positive build symmetric similarity matrix between terms
+__label__positive decode the cookie for the source account to merge
+__label__negative mapping of attrnames to row column positions used for constructing the model using kwargs , needed when not all models fields are present in the query
+__label__negative licensed under the apache license , version 20 the license ; you may not use this file except in compliance with the license you may obtain a copy of the license at
+__label__negative if count=0 , no new directories were created but we still need to fsync leaf dir after osrename if count > 0 , starting from leaf dir , fsync parent dirs of all directories created by makedirs_count
+__label__negative set elements
+__label__positive process line first
+__label__negative hex : no tags
+__label__negative this setting is valid on every app , and is used to determine whether or not this app should be included in the list of apps on the home page it defaults to true , but you can suppress an app from being displayed in the icon grid by setting it to be false
+__label__negative all jobs processed !
+__label__positive look for tests in a modules __test__ dictionary
+__label__positive sweep through the parameters
+__label__negative config file names
+__label__negative c_extract is called when getting the value of an apply nodes input from the compute map , before being used by its clients if one of the clients has check_input=true , we need to perform checks on the variable however that code is not used by c code of the apply node creating this variable , so there is no need to check rowneropcheck_input
+__label__positive depending on the value of min , allow it to match a negation
+__label__negative spatialite can only count vertices in linestrings
+__label__negative the attributes for an array of pod will the numeric type tag
+__label__negative reg transform
+__label__negative if the append is actually after a break or on a path that can only end up in a break , then it wont be recorded as part of the loop body at all this is a strange case where we have basically proved that the list will be of length 1 too uncommon to worry about , i suspect
+__label__negative the pk_val and model values are the same for all deferredattribute classes , so we only need to do this once
+__label__positive convert utc time tuple to seconds since epoch not timezone-adjusted
+__label__negative we know the player is in our instance , so this is not too bad
+__label__negative since it will use count as eject confirm we have to wait for eject_timout of both devices
+__label__positive only open dialog if there is no filename yet
+__label__negative : encoding used for attribute values
+__label__negative test we can pass args , kwargs to read_file
+__label__negative trait notification
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - traitcasttype class : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative : short cut string for event class name
+__label__negative the list of filters
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - tropo channels
+__label__positive test non-private key
+__label__negative plex video files scanner extended personal media scanner
+__label__positive interpret __exact=none as the sql is null ; otherwise , reject all uses of none as a query value
+__label__negative -- - gl es
+__label__negative mark seeded upon successful install
+__label__negative closing the conn is the only way to determine len
+__label__negative flags : of , cf
+__label__positive send contract fields
+__label__positive write in chunksize bites
+__label__negative should have no global router yet
+__label__negative if there is an error in the component error handler we pass the that error to the application error handler and continue processing the actual error
+__label__positive adding field containerrelease
+__label__negative override for pos
+__label__negative first candidate vhosts filter
+__label__positive check if shell_escape has been overridden in env
+__label__negative iostat documentation states that sectors are equivalent with blocks and have a size of 512 bytes since 24 kernels this value is needed to calculate the amount of disk i/o in bytes
+__label__negative a convenience attribute to allow flows to access their args directly
+__label__negative the semantic protobuf class which owns this field descriptor
+__label__negative and update the menu dictionary
+__label__negative attribute selector
+__label__negative ick it may require * inserting * spaces if we back up over a tab character ! this is written to be clear , not fast
+__label__negative when paul follows john he will see johns groups
+__label__positive delete the style
+__label__negative not found :
+__label__positive look for emacs-style file variable hints
+__label__negative -- trait event handlers -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive construct the blocks new exits
+__label__positive fill out popup window add policy form
+__label__negative removing unique constraint on ramassemblylinetypedetailpergroup , fields assembly_line_type , group
+__label__negative grayscale texture uploaded but not used
+__label__negative bug fix : break the mount point when initialization failed with an exception , because selfconn might not be valid , which results in an internal error message for every fuse api call
+__label__negative initialize with the standard model parameters
+__label__negative construct headers
+__label__positive loop over each of the values for this node
+__label__positive enable actual module
+__label__negative cookiestxt regards set-cookie : foo as a cookie with no name , whereas httpcookiejar regards it as a cookie with no value
+__label__positive extract min and max index in z direction
+__label__positive force an exception in get_allocate_jobsteps
+__label__negative set elements
+__label__negative $ 0000 rmb3 $ 43
+__label__positive remove segments
+__label__negative private names are hidden , but special names are displayed
+__label__negative tryexcept : trynode , except_clauses , elsenode
+__label__positive not a field bail out
+__label__negative bulk actions
+__label__negative lets handle both nan types
+__label__negative document start and document end indicators
+__label__negative issue2670 : multiple handlers sharing the same base class
+__label__negative this version of urlencode is from my python 152 back-port of the python 21 cvs maintenance branch of urllib it will accept a sequence of pairs instead of a mapping -- the 20 version only accepts a mapping
+__label__negative terms that move along t
+__label__negative builtins that have different names in different python versions
+__label__positive test getting an item & updating it this is the safe variant only write if there have been no changes
+__label__negative the default flag value can either be represented as a string like on the command line , or as a python object we serialize this value in the latter case in order to remain consistent
+__label__negative assume its a reference to the exceptionregexes dictionary defined above
+__label__positive record the name of the top level pipeline , eg that defined on the command line
+__label__negative copy constructor
+__label__negative color of the paramter changed modules in visual diff
+__label__negative 28 days through 31 days
+__label__negative the various database tables that the widget may want access to
+__label__positive given a set of data points from getlatlongs output returns north south east and west barrings to go into kml
+__label__negative distance : number of commits since tag
+__label__positive simulate a valid forgot password form
+__label__negative the base class name
+__label__positive make design matrix
+__label__negative fixme : try to avoid pb when reloading db with inconsistencies
+__label__positive make sure that free indices appear in the same order as in their component :
+__label__positive convert sub-blossoms into top-level blossoms
+__label__positive swap matched/unmatched edges over an alternating path between two single vertices the augmenting path runs through edge k , which connects a pair of s vertices
+__label__positive cause a network error
+__label__positive launch the client manager server
+__label__negative test flags
+__label__negative from pep 333 : servers and gateways that implement http 11 must provide transparent support for http 11s expect/continue mechanism this may be done in any of several ways : 1 respond to requests containing an expect : 100-continue request with an immediate 100 continue response , and proceed normally 2 proceed with the request normally , but provide the application with a wsgiinput stream that will send the 100 continue response if/when the application first attempts to read from the input stream the read request must then remain blocked until the client responds 3 wait until the client decides that the server does not support expect/continue , and sends the request body on its own this is suboptimal , and is not recommended we used to do 3 , but are now doing 1 maybe well do 2 someday , but it seems like it would be a big slowdown for such a rare case
+__label__negative xx dont cache -- different options might be used ! ! if self_plaintext is not none : return self_plaintext
+__label__negative dict is supposed to be hashable
+__label__positive defining class properties on the created class
+__label__negative special-case for windows , where readline is not a standard module , though it may have been installed in site-packages by a third-party package
+__label__negative ============================ from argparse import * tests ============================
+__label__positive loop over all dangling inputs
+__label__positive find , parse , and run all tests in the given module
+__label__negative test that grid search can be used for model selection only
+__label__negative pragma : no cover
+__label__positive attempt to serialize , raises exception on failure
+__label__negative user with no permissions can do nothing , even on images they own
+__label__negative themeable throbber
+__label__negative unit tests for different values of metavar when nargs=1
+__label__negative tests derived from tables in http : //enwikipediaorg/wiki/table_of_spherical_harmonics
+__label__negative indicates whether the symbol corresponds to a definition the type of this attribute is bool
+__label__positive create the objects that will be serialized for presentation in the plan chooser
+__label__positive get any docfields from api_docs ancestors
+__label__negative files here is a list of file names
+__label__negative set a foreign key set with an object from a different database
+__label__positive if the request finished , no reason to allow event fetching , since we cant send back to the client
+__label__negative pragma : no cover
+__label__negative first try per time/vector sample values
+__label__negative case no 1 : no intercept in the model
+__label__negative we want to make sure all bytes are passed back and forth ; jp estimated that 3 rounds should be enough :
+__label__negative words ending in -ed
+__label__negative important : we need to use modelformmixinform_valid here ! but by doing so we omit successmessagemixin completely , so we need to simulate it the code below is almost identical to successmessagemixinform_valid
+__label__positive init xsl stylesheet
+__label__negative u1 tag = item_float ; / * 2 * /
+__label__positive run the example in the given context globs , and record any exception that gets raised but dont intercept keyboard interrupts
+__label__negative mktemp can choose many usable file names stochastic
+__label__negative built-in functions
+__label__negative weve reached the top level already
+__label__positive confirm indexing of formset
+__label__positive update row
+__label__negative byte1e - identifies the message as an execute message int32 - message length , including self string - the name of the portal to execute int32 - maximum number of rows to return , if portal contains a query # that returns rows 0 = no limit
+__label__positive stdin is set to open file descriptor
+__label__negative http 11 requires a host-header this is for http/10 clients
+__label__negative stop portal
+__label__positive wait seconds
+__label__negative test that after we remove a user we are unsubscribed from all their feeds
+__label__positive encrypt/decrypt after adding normal finite num to inf and nans
+__label__positive and convert to datetime
+__label__negative regular expression : theres no reason for it to start with a * and this stops confusion with comments
+__label__negative variables used to implement the static method generate_unique_thread_id
+__label__positive store metadata size , etc for all relevant vars
+__label__positive default to single select
+__label__positive determine the operator
+__label__negative check dests for any sources this can happen with parameters
+__label__negative if no task was found in the pipeline , terminate with an error todo error
+__label__negative if this is the final continue remove the &
+__label__negative pragma : no cover
+__label__negative include < stringh >
+__label__negative implicit key
+__label__positive add ok / cancel buttons
+__label__negative numpy expm1
+__label__negative test again with failing write
+__label__negative axis not used but this catches invalid axis errors only valid axis for vectorn is 0 ,
+__label__negative at this point we now have the blocks collected and can visit them too
+__label__positive set nesting to true , so the nested models can easily load the data
+__label__positive set up ignore variables
+__label__positive add access-control-allow-origin : * header for the new api with django-cors-headers
+__label__negative were sending the object plus other stuff in the same request body , all wrapped up in multipart mime , so wed better start off the mime document before sending any object data
+__label__positive fire the closed event
+__label__negative second selection
+__label__negative a user with no permission can edit no images
+__label__positive resample if necessary
+__label__positive fill the data array , check header consistency
+__label__negative initialize all our state variables
+__label__negative some file and directories will be include or exclude for removing
+__label__negative the mit license mit
+__label__negative values are in range , but a dtype too large has explicitly been given for performance reasons , no check of the data is explicitly performed it might be ok to change this in the future
+__label__negative notice that in arm , there are some freaking instructions like bleq < address > it should give us three exits : ijk_call , ijk_boring , and ijk_ret the last exit is simulated notice : we assume the last exit is the simulated one
+__label__negative a toplevel frame is the root + soft frames such as if conditions
+__label__negative 992 ticket , we can not actually import a single file with all the plugin variants in , because that calls __new__ , at which point the error with splitted occurs
+__label__positive log in as an editor
+__label__negative no port attr present cookie can be sent back on any port
+__label__negative local axis of the hip that aims at the knee
+__label__positive create twms layer metadata for getcapabilities
+__label__negative if this is a symmetrical m2m relation to self , remove the mirror entry in the m2m table
+__label__negative resid v^ { -1 } resid , summed over the groups a scalar
+__label__negative calling create_dvr_fip_interfaces again to make sure that the fip namespace create is not called again if the create is not called again , that would contain the duplicate rules configuration in the fip namespace
+__label__negative do not use stateful comments
+__label__negative for cpython compatibility , we can not use our __class__ here , but need a real timedelta
+__label__negative : if this is set to true , then new terminalcontrollers will : assume that the terminal is not capable of doing manipulation : of any kind
+__label__positive save a doc with explicit id
+__label__negative main window
+__label__negative generic exception class
+__label__negative probably already an object
+__label__negative we add all the support code , compile args , headers and libs we need
+__label__negative tab to the next stop within or to right of lines text :
+__label__negative struct _cryptoapi_blob definitions
+__label__negative too much variation in line length is ugly
+__label__negative safety check
+__label__positive compute dictionary of ancestors for each node a simple dfs does not work as the graph is not a tree
+__label__positive even if the gateway if on default eth0 nic and we popped it will work as we reinject or set it here
+__label__positive for a top level object no _new_name should be set
+__label__negative this should not really be done since there might be more information in the pathspec than the path but here in the test is ok
+__label__negative verify initial category
+__label__positive preprocess the string
+__label__negative unless override : unregister from flist , terminate if last window
+__label__positive use seed for deterministic testing
+__label__negative error handlers you may override these with something more appropriate to your ui
+__label__negative get the description of a node @ param goid the go id of the node to get the description of
+__label__positive determine instance fields
+__label__positive reap all our dead child processes so we dont leave zombies around these hog resources and might be causing some of the buildbots to die
+__label__negative //////////////////////////////////////////////////////////// { derived properties ////////////////////////////////////////////////////////////
+__label__positive move the node
+__label__positive handle differently if this is a debian vs distro branch
+__label__negative compute default arguments these are * not * passed on
+__label__negative check for ? version=all requests
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- accessing
+__label__negative dump content : this means handling escape characters
+__label__positive need to add a restriction so that outer querys filters are in effect for the subquery , too
+__label__negative positionermotiondoneget : read motion done parameters
+__label__positive convert it back to a color string
+__label__positive find the labels normal
+__label__positive copy the frameworks dylib into the virtual environment
+__label__negative repeated fields are handled especially
+__label__negative default directory lister plugin this one is used automatically if no custom dirlister plugin is installed its rather simple , it only shows a sorted list of the dirs and the files
+__label__negative early out if this context is the main context since there cant be a candidate that ctx is a shift of and is more shifted
+__label__negative when it ends with __in -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__positive initialise the alphabet
+__label__positive add nodes from other groups different for each node
+__label__negative erlang should generate a runtimewarning if a non-integer shape parameter is used
+__label__negative trackers whether or not close has been invoked on this processor
+__label__negative xxx should this raise valueerror or importerror ?
+__label__negative run of tool completed
+__label__negative -- -- -- -- -- -- -- -- -- - time for action ! -- -- -- -- -- -- -- -- -
+__label__negative get a mitmeshvertex
+__label__positive track order of state definitions
+__label__negative one-liner to sufficiently pad the text to be encrypted
+__label__negative ? ? ? < figcaption > might be appropriate here if we could ensure a parent < figure >
+__label__negative table configuration
+__label__negative want consists of any non-blank lines that do not start with ps1
+__label__negative weve found the right issue ! copy its data into the book
+__label__negative find first vertex on hull as minimal lexicographically ordered projection
+__label__negative if we are in replay mode then simply call the mock __setitem__ method
+__label__positive check overall form
+__label__positive iterate over each of the date checks now
+__label__negative old , pre-optik 15 behaviour
+__label__negative plugin models have been moved away due to djangos appconfig
+__label__negative old non-property versions of the generators , for backwards compatibility with bs3
+__label__positive precompute the kernel for the case where it is fixed
+__label__negative locations settings matrix and transmission technologies
+__label__negative testing with dh merge all calc elrs instead of isolating calc elrs
+__label__negative if y has as many dimensions as x , then we want to iterate jointly on x and y otherwise , it means y should be broadcasted to fill all relevant rows of x
+__label__negative backwards compat : fill_value is a public writeable attribute
+__label__negative notedgenin : currently true only for rbd image backend
+__label__negative -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - baseinstance and instance traits : -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+__label__negative distances are from the closest vertex in each geometry -- should be 3 distance from 2 , 2 to 5 , 2
+__label__positive round if self has too many digits
+__label__positive use local file or ftp depending on form of url
+__label__negative post configuration nochroot
+__label__negative pylint : enable=r0914
+__label__negative check stats for p2
+__label__positive create an author through the generic interface
+__label__negative run after numerical stability optimizations 15
