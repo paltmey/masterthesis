@@ -1,7 +1,8 @@
-# Readme
-
 ## Project Structure
 The source code of this project is structured into a ``/scripts`` directory, a ``/src`` directory, a ``/util`` directory and a ``/frontend`` directory. The  ``/scripts`` directory contains all scripts to preprocess the data and train the models. The ``/src`` directory contains methods and classes, which are used by multiple scripts and the ``/util`` directory contains helper functions. The ``/frontend`` directory contains the JavaScript source code for the frontend application. In addition, the ``/model`` directory contains all trained models and the ``/data`` directory contains all raw and preprocessed data. A Python server that serves the Demo Application is implemented in ``server.py``.
+
+## Pretrained Models
+Pretrained models can be downloaded [here](https://drive.google.com/file/d/1FbiFlcuI8h5CxJ4z5f2sjc60BgiaBEcY/view?usp=sharing). Unzip the folder and copy the entire structure to the ``/model`` directory.
 
 ## Setup
 The code implementation is Python 3 only. The necessary dependecies for this project can be installed with the following command:
